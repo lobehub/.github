@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height="160" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.1.0/assets/logo-combine.webp">
+<img height="100" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.1.0/assets/logo-combine.webp">
 
 Empowering your AI dreams with LobeHub
 
