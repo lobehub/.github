@@ -2,15 +2,13 @@
 
 <div align="center">
 
-<img width="160" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.0.0/assets/logo-3d.webp">
-
-<h1 align="center">LobeHub</h1>
+<img height="160" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.1.0/assets/logo-combine.webp">
 
 Empowering your AI dreams with LobeHub
 
 [![][website-shield]][website-url]
   
-</div>
+
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -26,10 +24,6 @@ Empowering your AI dreams with LobeHub
 | lobe-lint       | <https://github.com/lobehub/lobe-lint>       | [![][lobe-lint-shield]][lobe-lint-url]     |
 | lobe-commit     | <https://github.com/lobehub/lobe-commit>     | [![][lobe-commit-shield]][lobe-commit-url] |
 
-</details>
-
-<details>
-<summary>🖼️ Assets</summary>
 <br/>
   
 | NAME                             | NPM                                                                                       | UNPKG                                         |
@@ -41,6 +35,8 @@ Empowering your AI dreams with LobeHub
 | @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
 
 </details>
+
+</div>
 
 <!-- PACKAGE -->
 
