@@ -14,7 +14,9 @@ Empowering your AI dreams with LobeHub
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📦 Packages
+<details>
+<summary>📦 Packages</summary>
+<br/>
 
 | NAME            | REPO                                         | NPM                                        |
 | --------------- | -------------------------------------------- | ------------------------------------------ |
@@ -23,6 +25,22 @@ Empowering your AI dreams with LobeHub
 | lobe-flow       | <https://github.com/lobehub/lobe-flow>       | [![][lobe-flow-shield]][lobe-flow-url]     |
 | lobe-lint       | <https://github.com/lobehub/lobe-lint>       | [![][lobe-lint-shield]][lobe-lint-url]     |
 | lobe-commit     | <https://github.com/lobehub/lobe-commit>     | [![][lobe-commit-shield]][lobe-commit-url] |
+
+</details>
+
+<details>
+<summary>🖼️ Assets</summary>
+<br/>
+  
+| NAME                             | NPM                                                                                       | UNPKG                                         |
+| -------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
+| @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [UNPKG][assets-logo-unpkg]                    |
+| @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [UNPKG][assets-favicons-unpkg]                |
+| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [UNPKG][assets-webfont-mono-unpkg]            |
+| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [UNPKG][assets-webfont-harmony-sans-unpkg]    |
+| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
+
+</details>
 
 <!-- PACKAGE -->
 
@@ -38,16 +56,6 @@ Empowering your AI dreams with LobeHub
 [lobe-lint-url]: https://www.npmjs.com/package/@lobehub/lint
 [lobe-commit-shield]: https://img.shields.io/npm/v/@lobehub/commit-cli?label=%F0%9F%A4%AF%20NPM
 [lobe-commit-url]: https://www.npmjs.com/package/@lobehub/commit-cli
-
-## 🖼️ Assets
-
-| NAME                             | NPM                                                                                       | UNPKG                                         |
-| -------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------- |
-| @lobehub/assets-logo             | [![][assets-logo-release]][assets-logo-release-url]                                       | [UNPKG][assets-logo-unpkg]                    |
-| @lobehub/assets-favicons         | [![][assets-favicons-release]][assets-favicons-release-url]                               | [UNPKG][assets-favicons-unpkg]                |
-| @lobehub/webfont-mono            | [![][assets-webfont-mono-release]][assets-webfont-mono-release-url]                       | [UNPKG][assets-webfont-mono-unpkg]            |
-| @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [UNPKG][assets-webfont-harmony-sans-unpkg]    |
-| @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
 
 <!-- @lobehub/assets-logo -->
 
