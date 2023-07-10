@@ -7,7 +7,8 @@
 Empowering your AI dreams with LobeHub
 
 [![][website-shield]][website-url]
-  
+[![][discord-shield]][discord-url]
+
 
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -87,5 +88,7 @@ Empowering your AI dreams with LobeHub
 [assets-webfont-harmony-sans-sc-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc
 
 <!-- SHIELD LINK GROUP -->
-[website-shield]: https://img.shields.io/website?down_message=offline&label=lobehub.com&up_message=online&url=https%3A%2F%2Flobehub.com&style=flat-square
+[website-shield]: https://img.shields.io/website?down_message=offline&label=🤯%20lobehub.com&up_message=online&url=https%3A%2F%2Flobehub.com&style=flat
 [website-url]: https://lobehub.com
+[discord-shield]: https://dcbadge.vercel.app/api/server/AYFPHvv2jT?style=flat
+[discord-url]: https://discord.gg/AYFPHvv2jT
