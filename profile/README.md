@@ -16,13 +16,14 @@ Empowering your AI dreams with LobeHub
 <summary>📦 Packages</summary>
 <br/>
 
-| NAME            | REPO                                         | NPM                                        |
-| --------------- | -------------------------------------------- | ------------------------------------------ |
-| lobe-ui         | <https://github.com/lobehub/lobe-ui>         | [![][lobe-ui-shield]][lobe-ui-url]         |
-| lobe-chat       | <https://github.com/lobehub/lobe-chat>       | [![][lobe-chat-shield]][lobe-chat-url]     |
-| lobe-flow       | <https://github.com/lobehub/lobe-flow>       | [![][lobe-flow-shield]][lobe-flow-url]     |
-| lobe-lint       | <https://github.com/lobehub/lobe-lint>       | [![][lobe-lint-shield]][lobe-lint-url]     |
-| lobe-commit     | <https://github.com/lobehub/lobe-commit>     | [![][lobe-commit-shield]][lobe-commit-url] |
+| NAME               | REPO                                            | NPM                                        |
+| ------------------ | ----------------------------------------------- | ------------------------------------------ |
+| lobe-chat          | <https://github.com/lobehub/lobe-chat>          | [![][lobe-chat-shield]][lobe-chat-url]     |
+| lobe-flow          | <https://github.com/lobehub/lobe-flow>          | [![][lobe-flow-shield]][lobe-flow-url]     |
+| lobe-ui            | <https://github.com/lobehub/lobe-ui>            | [![][lobe-ui-shield]][lobe-ui-url]         |
+| dumi-theme-lobehub | <https://github.com/lobehub/dumi-theme-lobehub> | [![][lobe-dumi-shield]][lobe-dumi-url]     |
+| lobe-lint          | <https://github.com/lobehub/lobe-lint>          | [![][lobe-lint-shield]][lobe-lint-url]     |
+| lobe-commit        | <https://github.com/lobehub/lobe-commit>        | [![][lobe-commit-shield]][lobe-commit-url] |
 
 <br/>
   
@@ -52,6 +53,8 @@ Empowering your AI dreams with LobeHub
 [lobe-lint-url]: https://www.npmjs.com/package/@lobehub/lint
 [lobe-commit-shield]: https://img.shields.io/npm/v/@lobehub/commit-cli?label=%F0%9F%A4%AF%20NPM
 [lobe-commit-url]: https://www.npmjs.com/package/@lobehub/commit-cli
+[lobe-dumi-shield]: https://img.shields.io/npm/v/dumi-theme-lobehub?label=%F0%9F%A4%AF%20NPM
+[lobe-dumi-url]: https://www.npmjs.com/package/dumi-theme-lobehub
 
 <!-- @lobehub/assets-logo -->
 
