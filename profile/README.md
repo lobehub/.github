@@ -17,14 +17,14 @@ Empowering your AI dreams with LobeHub
 <summary>📦 Packages</summary>
 <br/>
 
-| NAME               | REPO                                            | NPM                                        |
-| ------------------ | ----------------------------------------------- | ------------------------------------------ |
-| lobe-chat          | <https://github.com/lobehub/lobe-chat>          | [![][lobe-chat-shield]][lobe-chat-url]     |
-| lobe-flow          | <https://github.com/lobehub/lobe-flow>          | [![][lobe-flow-shield]][lobe-flow-url]     |
-| lobe-ui            | <https://github.com/lobehub/lobe-ui>            | [![][lobe-ui-shield]][lobe-ui-url]         |
-| dumi-theme-lobehub | <https://github.com/lobehub/dumi-theme-lobehub> | [![][lobe-dumi-shield]][lobe-dumi-url]     |
-| lobe-lint          | <https://github.com/lobehub/lobe-lint>          | [![][lobe-lint-shield]][lobe-lint-url]     |
-| lobe-commit        | <https://github.com/lobehub/lobe-commit>        | [![][lobe-commit-shield]][lobe-commit-url] |
+| NAME                                   | REPO                                           | NPM                                        | DATE                     |
+| -------------------------------------- | ---------------------------------------------- | ------------------------------------------ | ------------------------ |
+| [@lobehub/chat][lobe-chat-url]         | [lobehub/lobe-chat][lobe-chat-github]          | [![][lobe-chat-shield]][lobe-chat-url]     | ![][lobe-chat-date]      |
+| [@lobehub/flow][lobe-flow-url]         | [lobehub/lobe-flow][lobe-flow-github]          | [![][lobe-flow-shield]][lobe-flow-url]     | ![][lobe-flow-date]      |
+| [@lobehub/ui][lobe-ui-url]             | [lobehub/lobe-ui][lobe-ui-github]              | [![][lobe-ui-shield]][lobe-ui-url]         | ![][lobe-ui-date]        |
+| [@lobehub/lint][lobe-lint-url]         | [lobehub/lobe-lint][lobe-lint-github]          | [![][lobe-lint-shield]][lobe-lint-url]     | ![][lobe-lint-date]      |
+| [@lobehub/commit-cli][lobe-commit-url] | [lobehub/lobe-commit][lobe-commit-github]      | [![][lobe-commit-shield]][lobe-commit-url] | ![][lobe-commit-date]    |
+| [dumi-theme-lobehub][lobe-dumi-url]    | [lobehub/dumi-theme-lobehub][lobe-dumi-github] | [![][lobe-dumi-shield]][lobe-dumi-url]     | ![][lobe-dumi-date]      |
 
 <br/>
   
@@ -40,22 +40,49 @@ Empowering your AI dreams with LobeHub
 
 </div>
 
-<!-- PACKAGE -->
+
+<!-- @lobehub/chat -->
+
+[lobe-chat-shield]: https://img.shields.io/npm/v/@lobehub/chat?label=%F0%9F%A4%AF%20NPM
+[lobe-chat-url]: https://www.npmjs.com/package/@lobehub/chat
+[lobe-chat-date]: https://img.shields.io/github/release-date/lobehub/lobe-chat?style=flat
+[lobe-chat-github]: https://github.com/lobehub/lobe-chat
+
+<!-- @lobehub/flow -->
+
+[lobe-flow-shield]: https://img.shields.io/npm/v/@lobehub/flow?label=%F0%9F%A4%AF%20NPM
+[lobe-flow-url]: https://www.npmjs.com/package/@lobehub/flow
+[lobe-flow-date]: https://img.shields.io/github/release-date/lobehub/lobe-flow?style=flat
+[lobe-flow-github]: https://github.com/lobehub/lobe-flow
+
+<!-- @lobehub/ui -->
 
 [lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?label=%F0%9F%A4%AF%20NPM
 [lobe-ui-url]: https://www.npmjs.com/package/@lobehub/ui
-[lobe-chat-shield]: https://img.shields.io/npm/v/@lobehub/chat?label=%F0%9F%A4%AF%20NPM
-[lobe-chat-url]: https://www.npmjs.com/package/@lobehub/chat
-[lobe-flow-shield]: https://img.shields.io/npm/v/@lobehub/flow?label=%F0%9F%A4%AF%20NPM
-[lobe-flow-url]: https://www.npmjs.com/package/@lobehub/flow
-[lobe-assets-shield]: https://img.shields.io/npm/v/@lobehub/assets-logo?label=%F0%9F%A4%AF%20NPM
-[lobe-assets-url]: https://www.npmjs.com/package/@lobehub/assets-logo
+[lobe-ui-date]: https://img.shields.io/github/release-date/lobehub/lobe-ui?style=flat
+[lobe-ui-github]: https://github.com/lobehub/lobe-ui
+
+<!-- @lobehub/lint -->
+
 [lobe-lint-shield]: https://img.shields.io/npm/v/@lobehub/lint?label=%F0%9F%A4%AF%20NPM
 [lobe-lint-url]: https://www.npmjs.com/package/@lobehub/lint
+[lobe-lint-date]: https://img.shields.io/github/release-date/lobehub/lobe-lint?style=flat
+[lobe-lint-github]: https://github.com/lobehub/lobe-lint
+
+<!-- @lobehub/commit-cli -->
+
 [lobe-commit-shield]: https://img.shields.io/npm/v/@lobehub/commit-cli?label=%F0%9F%A4%AF%20NPM
 [lobe-commit-url]: https://www.npmjs.com/package/@lobehub/commit-cli
+[lobe-commit-date]: https://img.shields.io/github/release-date/lobehub/lobe-commit?style=flat
+[lobe-commit-github]: https://github.com/lobehub/lobe-commit
+
+<!-- dumi-theme-lobehu -->
+
 [lobe-dumi-shield]: https://img.shields.io/npm/v/dumi-theme-lobehub?label=%F0%9F%A4%AF%20NPM
 [lobe-dumi-url]: https://www.npmjs.com/package/dumi-theme-lobehub
+[lobe-dumi-date]: https://img.shields.io/github/release-date/lobehub/dumi-theme-lobehub?style=flat
+[lobe-dumi-github]: https://github.com/lobehub/dumi-theme-lobehu
+
 
 <!-- @lobehub/assets-logo -->
 
