@@ -51,9 +51,18 @@ Empowering your AI dreams with LobeHub
 | @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [UNPKG][assets-webfont-harmony-sans-unpkg]    |
 | @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
 
+
+
+---
+
+#### 📝 License
+
+Copyright © 2023 [LobeHub](https://github.com/lobehub)
+
 </details>
 
 </div>
+
 
 
 <!-- @lobehub/chat -->
