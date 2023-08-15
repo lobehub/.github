@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height="90" src="https://npm.elemecdn.com/@lobehub/assets-logo@1.1.0/assets/logo-combine.webp">
+<img height="90" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.1.0/files/assets/logo-combine.webp">
 
 Empowering your AI dreams with LobeHub
 
@@ -130,13 +130,13 @@ Copyright © 2023 [LobeHub](https://github.com/lobehub)
 
 [assets-logo-release]: https://img.shields.io/npm/v/@lobehub/assets-logo?label=%F0%9F%A4%AF%20NPM
 [assets-logo-release-url]: https://www.npmjs.com/package/@lobehub/assets-logo
-[assets-logo-unpkg]: https://npm.elemecdn.com/@lobehub/assets-logo
+[assets-logo-unpkg]: https://registry.npmmirror.com/@lobehub/assets-logo
 
 <!-- @lobehub/assets-favicons -->
 
 [assets-favicons-release]: https://img.shields.io/npm/v/@lobehub/assets-favicons?label=%F0%9F%A4%AF%20NPM
 [assets-favicons-release-url]: https://www.npmjs.com/package/@lobehub/assets-favicons
-[assets-favicons-unpkg]: https://npm.elemecdn.com/@lobehub/assets-favicons
+[assets-favicons-unpkg]: https://registry.npmmirror.com/@lobehub/assets-favicons
 
 <!-- @lobehub/assets-emoji -->
 
@@ -160,19 +160,19 @@ Copyright © 2023 [LobeHub](https://github.com/lobehub)
 
 [assets-webfont-mono-release]: https://img.shields.io/npm/v/@lobehub/webfont-mono?label=%F0%9F%A4%AF%20NPM
 [assets-webfont-mono-release-url]: https://www.npmjs.com/package/@lobehub/webfont-mono
-[assets-webfont-mono-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-mono
+[assets-webfont-mono-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-mono
 
 <!-- @lobehub/webfont-harmony-sans -->
 
 [assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans?label=%F0%9F%A4%AF%20NPM
 [assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans
-[assets-webfont-harmony-sans-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-harmony-sans
+[assets-webfont-harmony-sans-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans
 
 <!-- @lobehub/webfont-harmony-sans-sc -->
 
 [assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@lobehub/webfont-harmony-sans-sc?label=%F0%9F%A4%AF%20NPM
 [assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@lobehub/webfont-harmony-sans-sc
-[assets-webfont-harmony-sans-sc-unpkg]: https://npm.elemecdn.com/@lobehub/webfont-harmony-sans-sc
+[assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc
 
 <!-- SHIELD LINK GROUP -->
 [website-shield]: https://img.shields.io/website?down_message=offline&label=🤯%20lobehub.com&up_message=online&url=https%3A%2F%2Flobehub.com&style=flat
