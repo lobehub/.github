@@ -1,1 +1,1 @@
-./profile/readme.md
+./profile/README.md
