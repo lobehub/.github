@@ -12,40 +12,38 @@ Empowering your AI dreams with LobeHub
 [![][website-shield]][website-url]
 [![][discord-shield]][discord-url]
 
-
-
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+</div>
+
+### 👋🏻 Welcome to LobeHub
+
+We are a group of passionate design engineers, hoping to provide modern design components and tools for AIGC, and share them in an open-source manner to promote their development and adoption in a broader community.
+
+### ⭐️ Our Projects
+
+| [🤖 Lobe Chat][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.                                                                                              | [![][lobe-chat-cover]][lobe-chat-github]   |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------- |
+| [🤯 Lobe Theme][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.                                                                                                                               | [![][lobe-theme-cover]][lobe-theme-github]  |
+| [💌 Lobe Commit][lobe-commit-github]<br/>Automation tool for the i18n (internationalization) translation process, powered by ChatGPT. It supports features such as automatic splitting of large files, incremental updates, and customization options for the OpenAI model, API proxy, and temperature. | [![][lobe-commit-cover]][lobe-commit-github] |
+| [🌏 Lobe i18n][lobe-i18n-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.                                                                                                                                                                               | [![][lobe-i18n-cover]][lobe-i18n-github]   |
+
 <details>
-<summary>📦 Packages</summary>
+<summary>📦 Ecosystem</summary>
 <br/>
 
-| NAME                                   | REPO                                           | NPM                                        | DATE                     |
-| -------------------------------------- | ---------------------------------------------- | ------------------------------------------ | ------------------------ |
-| [@lobehub/chat][lobe-chat-url]         | [lobehub/lobe-chat][lobe-chat-github]          | [![][lobe-chat-shield]][lobe-chat-url]     | ![][lobe-chat-date]      |
-| [@lobehub/flow][lobe-flow-url]         | [lobehub/lobe-flow][lobe-flow-github]          | [![][lobe-flow-shield]][lobe-flow-url]     | ![][lobe-flow-date]      |
-| [@lobehub/ui][lobe-ui-url]             | [lobehub/lobe-ui][lobe-ui-github]              | [![][lobe-ui-shield]][lobe-ui-url]         | ![][lobe-ui-date]        |
-| [@lobehub/lint][lobe-lint-url]         | [lobehub/lobe-lint][lobe-lint-github]          | [![][lobe-lint-shield]][lobe-lint-url]     | ![][lobe-lint-date]      |
-| [dumi-theme-lobehub][lobe-dumi-url]    | [lobehub/dumi-theme-lobehub][lobe-dumi-github] | [![][lobe-dumi-shield]][lobe-dumi-url]     | ![][lobe-dumi-date]      |
-
-<br/>
-
-🕹️ Cli Toolbox
-
-<br/>
-
-| NAME                                   | REPO                                           | NPM                                        | DATE                     |
-| -------------------------------------- | ---------------------------------------------- | ------------------------------------------ | ------------------------ |
-| [@lobehub/commit-cli][lobe-commit-url] | [lobehub/lobe-commit][lobe-commit-github]      | [![][lobe-commit-shield]][lobe-commit-url] | ![][lobe-commit-date]    |
-| [@lobehub/i18n-cli][lobe-i18n-url]     | [lobehub/lobe-i18n][lobe-i18n-github]          | [![][lobe-i18n-shield]][lobe-i18n-url]     | ![][lobe-i18n-date]      |
-| [@lobehub/cli-ui][lobe-cliui-url]      | [lobehub/cli-ui][lobe-cliui-github]            | [![][lobe-cliui-shield]][lobe-cliui-url]   | ![][lobe-cliui-date]     |
+| NAME                                | REPO                                           | NPM                                      | DATE                 |
+| ----------------------------------- | ---------------------------------------------- | ---------------------------------------- | -------------------- |
+| [@lobehub/ui][lobe-ui-url]          | [lobehub/lobe-ui][lobe-ui-github]              | [![][lobe-ui-shield]][lobe-ui-url]       | ![][lobe-ui-date]    |
+| [@lobehub/cli-ui][lobe-cliui-url]   | [lobehub/cli-ui][lobe-cliui-github]            | [![][lobe-cliui-shield]][lobe-cliui-url] | ![][lobe-cliui-date] |
+| [@lobehub/lint][lobe-lint-url]      | [lobehub/lobe-lint][lobe-lint-github]          | [![][lobe-lint-shield]][lobe-lint-url]   | ![][lobe-lint-date]  |
+| [dumi-theme-lobehub][lobe-dumi-url] | [lobehub/dumi-theme-lobehub][lobe-dumi-github] | [![][lobe-dumi-shield]][lobe-dumi-url]   | ![][lobe-dumi-date]  |
 
 <br/>
 
 🖼️ Assets
 
 <br/>
-  
 
 | NAME                             | NPM                                                                                       | UNPKG                                              |
 | -------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------- |
@@ -58,32 +56,18 @@ Empowering your AI dreams with LobeHub
 | @lobehub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [ELEM-UNPKG][assets-webfont-harmony-sans-unpkg]    |
 | @lobehub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [ELEM-UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
 
-
----
-
-#### 📝 License
-
-Copyright © 2023 [LobeHub](https://github.com/lobehub)
-
 </details>
-
-</div>
-
-
 
 <!-- @lobehub/chat -->
 
-[lobe-chat-shield]: https://img.shields.io/npm/v/@lobehub/chat?label=%F0%9F%A4%AF%20NPM
-[lobe-chat-url]: https://www.npmjs.com/package/@lobehub/chat
-[lobe-chat-date]: https://img.shields.io/github/release-date/lobehub/lobe-chat?style=flat
 [lobe-chat-github]: https://github.com/lobehub/lobe-chat
-
-<!-- @lobehub/flow -->
-
-[lobe-flow-shield]: https://img.shields.io/npm/v/@lobehub/flow?label=%F0%9F%A4%AF%20NPM
-[lobe-flow-url]: https://www.npmjs.com/package/@lobehub/flow
-[lobe-flow-date]: https://img.shields.io/github/release-date/lobehub/lobe-flow?style=flat
-[lobe-flow-github]: https://github.com/lobehub/lobe-flow
+[lobe-chat-cover]: https://gw.alipayobjects.com/zos/kitchen/3uH7fYVvfO/lobechat.webp
+[lobe-theme-github]: https://github.com/lobehub/sd-webui-lobe-theme
+[lobe-theme-cover]: https://gw.alipayobjects.com/zos/kitchen/8Ab%24hLJ5ur/cover.webp
+[lobe-commit-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-commit
+[lobe-commit-cover]: https://gw.alipayobjects.com/zos/kitchen/3%26ByxtP39X/preview.webp
+[lobe-i18n-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-i18n
+[lobe-i18n-cover]: https://gw.alipayobjects.com/zos/kitchen/AH7rvv06qn/preview-i18n.webp
 
 <!-- @lobehub/ui -->
 
@@ -99,21 +83,6 @@ Copyright © 2023 [LobeHub](https://github.com/lobehub)
 [lobe-lint-date]: https://img.shields.io/github/release-date/lobehub/lobe-lint?style=flat
 [lobe-lint-github]: https://github.com/lobehub/lobe-lint
 
-<!-- @lobehub/commit-cli -->
-
-[lobe-commit-shield]: https://img.shields.io/npm/v/@lobehub/commit-cli?label=%F0%9F%A4%AF%20NPM
-[lobe-commit-url]: https://www.npmjs.com/package/@lobehub/commit-cli
-[lobe-commit-date]: https://img.shields.io/github/release-date/lobehub/lobe-commit?style=flat
-[lobe-commit-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-commit
-
-<!-- @lobehub/i18n-cli -->
-
-[lobe-i18n-shield]: https://img.shields.io/npm/v/@lobehub/i18n-cli?label=%F0%9F%A4%AF%20NPM
-[lobe-i18n-url]: https://www.npmjs.com/package/@lobehub/i18n-cli
-[lobe-i18n-date]: https://img.shields.io/github/release-date/lobehub/lobe-commit?style=flat
-[lobe-i18n-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-i18n
-
-
 <!-- @lobehub/cli-ui -->
 
 [lobe-cliui-shield]: https://img.shields.io/npm/v/@lobehub/cli-ui?label=%F0%9F%A4%AF%20NPM
@@ -121,13 +90,12 @@ Copyright © 2023 [LobeHub](https://github.com/lobehub)
 [lobe-cliui-date]: https://img.shields.io/github/release-date/lobehub/lobe-commit?style=flat
 [lobe-cliui-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobei-ui
 
-<!-- dumi-theme-lobehu -->
+<!-- dumi-theme-lobehub -->
 
 [lobe-dumi-shield]: https://img.shields.io/npm/v/dumi-theme-lobehub?label=%F0%9F%A4%AF%20NPM
 [lobe-dumi-url]: https://www.npmjs.com/package/dumi-theme-lobehub
 [lobe-dumi-date]: https://img.shields.io/github/release-date/lobehub/dumi-theme-lobehub?style=flat
 [lobe-dumi-github]: https://github.com/lobehub/dumi-theme-lobehu
-
 
 <!-- @lobehub/assets-logo -->
 
@@ -178,7 +146,8 @@ Copyright © 2023 [LobeHub](https://github.com/lobehub)
 [assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@lobehub/webfont-harmony-sans-sc
 
 <!-- SHIELD LINK GROUP -->
-[website-shield]: https://img.shields.io/website?down_message=offline&label=🤯%20lobehub.com&up_message=online&url=https%3A%2F%2Flobehub.com&style=flat
-[website-url]: https://lobehub.com
+
+[website-shield]: https://img.shields.io/website?down_message=offline&label=🤯%20lobehub.com&up_message=online&url=https%3A%2F%2Fchat.lobehub.com&style=flat
+[website-url]: https://chat.lobehub.com
 [discord-shield]: https://dcbadge.vercel.app/api/server/AYFPHvv2jT?style=flat
 [discord-url]: https://discord.gg/AYFPHvv2jT
