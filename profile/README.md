@@ -28,6 +28,8 @@ We are a group of passionate design engineers, hoping to provide modern design c
 | [💌 Lobe Commit][lobe-commit-github]<br/>Automation tool for the i18n (internationalization) translation process, powered by ChatGPT. It supports features such as automatic splitting of large files, incremental updates, and customization options for the OpenAI model, API proxy, and temperature. | [![][lobe-commit-cover]][lobe-commit-github] |
 | [🌏 Lobe i18n][lobe-i18n-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.                                                                                                                                                                               | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 
+> **🤝 Contributing:** Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of ❤️
+
 <details>
 <summary>📦 Ecosystem</summary>
 <br/>
