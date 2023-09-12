@@ -46,7 +46,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 <!-- @lobehub/chat -->
 
 [lobe-chat-github]: https://github.com/lobehub/lobe-chat
-[lobe-chat-cover]: https://gw.alipayobjects.com/zos/kitchen/3uH7fYVvfO/lobechat.webp
+[lobe-chat-cover]: https://gw.alipayobjects.com/zos/kitchen/sLO%24gbrQtp/lobe-chat.webp
 [lobe-chat-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat.svg?style=flat
 [lobe-theme-github]: https://github.com/lobehub/sd-webui-lobe-theme
 [lobe-theme-cover]: https://gw.alipayobjects.com/zos/kitchen/8Ab%24hLJ5ur/cover.webp
