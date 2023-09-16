@@ -9,8 +9,8 @@
 
 Empowering your AI dreams with LobeHub
 
-[![][website-shield]][website-url]
-[![][discord-shield]][discord-url]
+[![][vercel-shield]][vercel-link]
+[![][discord-shield]][discord-link]
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -28,7 +28,8 @@ We are a group of passionate design engineers, hoping to provide modern design c
 | [**💌 Lobe Commit**][lobe-commit-github]<br/>Automation tool for the i18n (internationalization) translation process, powered by ChatGPT. It supports features such as automatic splitting of large files, incremental updates, and customization options for the OpenAI model, API proxy, and temperature.<br/><br/>![][lobe-commit-shield] | [![][lobe-commit-cover]][lobe-commit-github] |
 | [**🌏 Lobe i18n**][lobe-i18n-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>![][lobe-i18n-shield]                                                                                                                                                                                 | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 
-> **🤝 Contributing:** Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of ❤️
+> **Important**\
+> **Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
 
 <details>
 <summary>📦 Ecosystem</summary>
@@ -47,48 +48,48 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 [lobe-chat-github]: https://github.com/lobehub/lobe-chat
 [lobe-chat-cover]: https://gw.alipayobjects.com/zos/kitchen/sLO%24gbrQtp/lobe-chat.webp
-[lobe-chat-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat.svg?style=flat
+[lobe-chat-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-theme-github]: https://github.com/lobehub/sd-webui-lobe-theme
 [lobe-theme-cover]: https://gw.alipayobjects.com/zos/kitchen/8Ab%24hLJ5ur/cover.webp
-[lobe-theme-shield]: https://img.shields.io/github/stars/lobehub/sd-webui-lobe-theme.svg?style=flat
+[lobe-theme-shield]: https://img.shields.io/github/stars/lobehub/sd-webui-lobe-theme?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-commit-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-commit
 [lobe-commit-cover]: https://gw.alipayobjects.com/zos/kitchen/3%26ByxtP39X/preview.webp
-[lobe-commit-shield]: https://img.shields.io/npm/dt/@lobehub/commit-cli
+[lobe-commit-shield]: https://img.shields.io/npm/dt/@lobehub/commit-cli?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-i18n-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobe-i18n
 [lobe-i18n-cover]: https://gw.alipayobjects.com/zos/kitchen/AH7rvv06qn/preview-i18n.webp
-[lobe-i18n-shield]: https://img.shields.io/npm/dt/@lobehub/i18n-cli
+[lobe-i18n-shield]: https://img.shields.io/npm/dt/@lobehub/i18n-cli?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 
 <!-- @lobehub/ui -->
 
-[lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?label=%F0%9F%A4%AF%20NPM
+[lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-ui-url]: https://www.npmjs.com/package/@lobehub/ui
-[lobe-ui-date]: https://img.shields.io/github/release-date/lobehub/lobe-ui?style=flat
+[lobe-ui-date]: https://img.shields.io/github/release-date/lobehub/lobe-ui?labelColor=black&style=flat-square
 [lobe-ui-github]: https://github.com/lobehub/lobe-ui
 
 <!-- @lobehub/lint -->
 
-[lobe-lint-shield]: https://img.shields.io/npm/v/@lobehub/lint?label=%F0%9F%A4%AF%20NPM
+[lobe-lint-shield]: https://img.shields.io/npm/v/@lobehub/lint?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-lint-url]: https://www.npmjs.com/package/@lobehub/lint
-[lobe-lint-date]: https://img.shields.io/github/release-date/lobehub/lobe-lint?style=flat
+[lobe-lint-date]: https://img.shields.io/github/release-date/lobehub/lobe-lint?labelColor=black&style=flat-square
 [lobe-lint-github]: https://github.com/lobehub/lobe-lint
 
 <!-- @lobehub/cli-ui -->
 
-[lobe-cliui-shield]: https://img.shields.io/npm/v/@lobehub/cli-ui?label=%F0%9F%A4%AF%20NPM
+[lobe-cliui-shield]: https://img.shields.io/npm/v/@lobehub/cli-ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-cliui-url]: https://www.npmjs.com/package/@lobehub/cli-ui
-[lobe-cliui-date]: https://img.shields.io/github/release-date/lobehub/lobe-commit?style=flat
+[lobe-cliui-date]: https://img.shields.io/github/release-date/lobehub/lobe-commit?labelColor=black&style=flat-square
 [lobe-cliui-github]: https://github.com/lobehub/lobe-commit/tree/master/packages/lobei-ui
 
 <!-- dumi-theme-lobehub -->
 
-[lobe-dumi-shield]: https://img.shields.io/npm/v/dumi-theme-lobehub?label=%F0%9F%A4%AF%20NPM
+[lobe-dumi-shield]: https://img.shields.io/npm/v/dumi-theme-lobehub?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-dumi-url]: https://www.npmjs.com/package/dumi-theme-lobehub
-[lobe-dumi-date]: https://img.shields.io/github/release-date/lobehub/dumi-theme-lobehub?style=flat
+[lobe-dumi-date]: https://img.shields.io/github/release-date/lobehub/dumi-theme-lobehub?labelColor=black&style=flat-square
 [lobe-dumi-github]: https://github.com/lobehub/dumi-theme-lobehu
 
 <!-- SHIELD LINK GROUP -->
 
-[website-shield]: https://img.shields.io/website?down_message=offline&label=🤯%20lobehub.com&up_message=online&url=https%3A%2F%2Fchat.lobehub.com&style=flat
-[website-url]: https://chat.lobehub.com
-[discord-shield]: https://dcbadge.vercel.app/api/server/AYFPHvv2jT?style=flat
-[discord-url]: https://discord.gg/AYFPHvv2jT
+[vercel-link]: https://chat-preview.lobehub.com
+[vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
+[discord-link]: https://discord.gg/AYFPHvv2jT
+[discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
