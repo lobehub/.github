@@ -29,7 +29,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 | [**🌏 Lobe i18n**][lobe-i18n-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>![][lobe-i18n-shield]                                                                                                                                                                                 | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 
 > **Important**\
-> **Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
+> Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
 
 <details>
 <summary>📦 Ecosystem</summary>
