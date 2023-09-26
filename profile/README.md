@@ -23,17 +23,17 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 ### ⭐️ Our Projects
 
-| [**🤖 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>![][lobe-chat-shield]                                                                                                | [![][lobe-chat-cover]][lobe-chat-github]     |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
-| [**🤯 Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>![][lobe-theme-shield]                                                                                                                                | [![][lobe-theme-cover]][lobe-theme-github]   |
-| [**💌 Lobe Commit**][lobe-commit-github]<br/>Automation tool for the i18n (internationalization) translation process, powered by ChatGPT. It supports features such as automatic splitting of large files, incremental updates, and customization options for the OpenAI model, API proxy, and temperature.<br/><br/>![][lobe-commit-shield] | [![][lobe-commit-cover]][lobe-commit-github] |
-| [**🌏 Lobe i18n**][lobe-i18n-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>![][lobe-i18n-shield]                                                                                                                                                                                 | [![][lobe-i18n-cover]][lobe-i18n-github]     |
+| [**🤖 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github]                                                                                               | [![][lobe-chat-cover]][lobe-chat-github]     |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| [**🤯 Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                                                                                              | [![][lobe-theme-cover]][lobe-theme-github]   |
+| [**💌 Lobe Commit**][lobe-commit-github]<br/>Automation tool for the i18n (internationalization) translation process, powered by ChatGPT. It supports features such as automatic splitting of large files, incremental updates, and customization options for the OpenAI model, API proxy, and temperature.<br/><br/>[![][lobe-commit-shield]][lobe-commit-npm] | [![][lobe-commit-cover]][lobe-commit-github] |
+| [**🌏 Lobe i18n**][lobe-i18n-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm]                                                                                                                                                                                   | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 
 > **Important**\
 > Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
 
 <details>
-<summary>📦 Ecosystem</summary>
+<summary><b>📦 Ecosystem</b></summary>
 <br/>
 
 | NAME                                 | REPO                                           | NPM                                       | DATE                 |
@@ -47,7 +47,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 ---
 
-> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard 'Generate lobe style product README by MAGIC')_
+> *Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")*
 
 <!-- LINK GROUP -->
 
@@ -64,6 +64,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 [lobe-cliui-shield]: https://img.shields.io/npm/v/@lobehub/cli-ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-commit-cover]: https://gw.alipayobjects.com/zos/kitchen/3%26ByxtP39X/preview.webp
 [lobe-commit-github]: https://github.com/lobehub/lobe-cli-toolbox/tree/master/packages/lobe-commit
+[lobe-commit-npm]: https://www.npmjs.com/package/@lobehub/commit-cli
 [lobe-commit-shield]: https://img.shields.io/npm/dt/@lobehub/commit-cli?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-dumi-date]: https://img.shields.io/github/release-date/lobehub/dumi-theme-lobehub?labelColor=black&style=flat-square
 [lobe-dumi-github]: https://github.com/lobehub/dumi-theme-lobehu
@@ -71,6 +72,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 [lobe-dumi-shield]: https://img.shields.io/npm/v/dumi-theme-lobehub?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-i18n-cover]: https://gw.alipayobjects.com/zos/kitchen/AH7rvv06qn/preview-i18n.webp
 [lobe-i18n-github]: https://github.com/lobehub/lobe-cli-toolbox/tree/master/packages/lobe-i18n
+[lobe-i18n-npm]: https://www.npmjs.com/package/@lobehub/i18n-cli
 [lobe-i18n-shield]: https://img.shields.io/npm/dt/@lobehub/i18n-cli?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-lint-date]: https://img.shields.io/github/release-date/lobehub/lobe-lint?labelColor=black&style=flat-square
 [lobe-lint-github]: https://github.com/lobehub/lobe-lint
