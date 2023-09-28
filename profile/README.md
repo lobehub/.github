@@ -12,6 +12,7 @@ Empowering your AI dreams with LobeHub
 [![][vercel-shield]][vercel-link]
 [![][discord-shield]][discord-link]
 [![][github-star]][github-link]
+[![][social-x-shield]][social-x-link]
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -87,3 +88,5 @@ We are a group of passionate design engineers, hoping to provide modern design c
 [lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [vercel-link]: https://chat-preview.lobehub.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
+[social-x-shield]: https://img.shields.io/badge/-%40lobehub-black?labelColor=black&logo=x&logoColor=white&style=flat-square
+[social-x-link]: https://x.com/lobehub
