@@ -1,0 +1,39 @@
+{
+    "name": "lobehub",
+    "version": "1.0.0",
+    "private": true,
+    "homepage": "https://github.com/lobehub",
+    "bugs": {
+      "url": "https://github.com/lobehub/issues/new"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lobehub/.github.git"
+    },
+    "author": "LobeHub <i@lobehub.com>",
+    "scripts": {
+      "lint": "npm run lint:md && npm run prettier",
+      "lint:md": "remark . --quiet --output",
+      "prepare": "husky install",
+      "prettier": "prettier -c --write --no-error-on-unmatched-pattern \"**/**\"",
+      "test": "npm run lint"
+    },
+    "lint-staged": {
+      "*.md": [
+        "remark --quiet --output --",
+        "prettier --write --no-error-on-unmatched-pattern"
+      ],
+      "*.json": [
+        "prettier --write --no-error-on-unmatched-pattern"
+      ]
+    },
+    "devDependencies": {
+      "@commitlint/cli": "^17",
+      "@lobehub/lint": "latest",
+      "husky": "^8",
+      "lint-staged": "^15",
+      "prettier": "^3",
+      "remark": "^15",
+      "remark-cli": "^12"
+    }
+  }
