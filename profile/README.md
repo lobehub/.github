@@ -48,7 +48,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 ---
 
-> *Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")*
+> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
 
 <!-- LINK GROUP -->
 
