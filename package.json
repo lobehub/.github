@@ -28,7 +28,7 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "^17",
+    "@commitlint/cli": "^18.0.0",
     "@lobehub/lint": "latest",
     "husky": "^8",
     "lint-staged": "^15",
