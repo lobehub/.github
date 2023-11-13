@@ -40,6 +40,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 | NAME                                 | REPO                                           | NPM                                       | DATE                 |
 | ------------------------------------ | ---------------------------------------------- | ----------------------------------------- | -------------------- |
 | [@lobehub/ui][lobe-ui-link]          | [lobehub/lobe-ui][lobe-ui-github]              | [![][lobe-ui-shield]][lobe-ui-link]       | ![][lobe-ui-date]    |
+| [@lobehub/tts][lobe-tts-link]          | [lobehub/lobe-tts][lobe-tts-github]              | [![][lobe-tts-shield]][lobe-tts-link]       | ![][lobe-tts-date]    |
 | [@lobehub/cli-ui][lobe-cliui-link]   | [lobehub/cli-ui][lobe-cliui-github]            | [![][lobe-cliui-shield]][lobe-cliui-link] | ![][lobe-cliui-date] |
 | [@lobehub/lint][lobe-lint-link]      | [lobehub/lobe-lint][lobe-lint-github]          | [![][lobe-lint-shield]][lobe-lint-link]   | ![][lobe-lint-date]  |
 | [dumi-theme-lobehub][lobe-dumi-link] | [lobehub/dumi-theme-lobehub][lobe-dumi-github] | [![][lobe-dumi-shield]][lobe-dumi-link]   | ![][lobe-dumi-date]  |
@@ -86,6 +87,12 @@ We are a group of passionate design engineers, hoping to provide modern design c
 [lobe-ui-github]: https://github.com/lobehub/lobe-ui
 [lobe-ui-link]: https://www.npmjs.com/package/@lobehub/ui
 [lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+
+[lobe-tts-date]: https://img.shields.io/github/release-date/lobehub/lobe-tts?labelColor=black&style=flat-square
+[lobe-tts-github]: https://github.com/lobehub/lobe-tts
+[lobe-tts-link]: https://www.npmjs.com/package/@lobehub/tts
+[lobe-tts-shield]: https://img.shields.io/npm/v/@lobehub/tts?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+
 [vercel-link]: https://chat-preview.lobehub.com
 [vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.lobehub.com
 [social-x-shield]: https://img.shields.io/badge/-%40lobehub-white?labelColor=black&logo=x&logoColor=white&style=flat-square
