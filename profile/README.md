@@ -50,30 +50,38 @@ We are a group of passionate design engineers, hoping to provide modern design c
 <table>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=dark">
-        <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=light">
-      </picture>
+      <a href="https://next.ossinsight.io/widgets/official/compose-org-active-contributors?activity=active&period=past_28_days&owner_id=131470832" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=dark">
+          <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=light">
+        </picture>
+      </a>
     </td>
     <td rowspan="2">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=dark">
-        <img src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=light">
-      </picture>
+      <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&period=past_28_days&owner_id=131470832" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=dark">
+          <img src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=light">
+        </picture>
+      </a>
     </td>
     <td rowspan="2">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=dark">
-        <img alt="Active repos of lobehub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=light">
-      </picture>
+      <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=repos&period=past_28_days&owner_id=131470832" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=dark">
+          <img src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=light">
+        </picture>
+      </a>
     </td>
   </tr>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=dark">
-        <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=light">
-      </picture>
+      <a href="https://next.ossinsight.io/widgets/official/compose-org-active-contributors?activity=new&period=past_28_days&owner_id=131470832" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=dark">
+          <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=light">
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
