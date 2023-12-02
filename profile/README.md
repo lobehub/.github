@@ -30,9 +30,6 @@ We are a group of passionate design engineers, hoping to provide modern design c
 | [**💌 Lobe Commit**][lobe-commit-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>[![][lobe-commit-shield]][lobe-commit-npm]                                                                                                  | [![][lobe-commit-cover]][lobe-commit-github] |
 | [**🌏 Lobe i18n**][lobe-i18n-github]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 
-> \[!IMPORTANT]
-> Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
-
 <details>
 <summary><b>📦 Ecosystem</b></summary>
 <br/>
@@ -47,7 +44,39 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 </details>
 
----
+> \[!IMPORTANT]
+> Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=dark">
+        <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=active&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=light">
+      </picture>
+    </td>
+    <td rowspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=dark">
+        <img src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=light">
+      </picture>
+    </td>
+    <td rowspan="2">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=dark">
+        <img alt="Active repos of lobehub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=repos&period=past_28_days&owner_id=131470832&image_size=4x3&color_scheme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=dark">
+        <img src="https://next.ossinsight.io/widgets/official/compose-org-active-contributors/thumbnail.png?activity=new&period=past_28_days&owner_id=131470832&image_size=2x3&color_scheme=light">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 > _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
 
