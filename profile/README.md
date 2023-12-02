@@ -46,6 +46,8 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 ---
 
+### 🤝 Contributing
+
 > \[!IMPORTANT]
 > Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
 
