@@ -12,7 +12,8 @@ Empowering your AI dreams with LobeHub
 [![][vercel-shield]][vercel-link]
 [![][discord-shield]][discord-link]
 [![][github-star]][github-link]
-[![][social-x-shield]][social-x-link]
+[![][social-x-shield]][social-x-link]<br>
+[![sponser](https://img.shields.io/badge/-Sponsor%20LobeHub-f04f88?logo=opencollective&logoColor=white&style=flat-square)](https://opencollective.com/lobehub "Sponsor LobeHub on open-collective")
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
