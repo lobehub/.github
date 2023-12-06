@@ -13,7 +13,10 @@ Empowering your AI dreams with LobeHub
 [![][discord-shield]][discord-link]
 [![][github-star]][github-link]
 [![][social-x-shield]][social-x-link]<br>
-[![sponser](https://img.shields.io/badge/-Sponsor%20LobeHub-f04f88?logo=opencollective&logoColor=white&style=flat-square)](https://opencollective.com/lobehub "Sponsor LobeHub on open-collective")
+[![][sponsor-shield]][sponsor-link]
+
+[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20LobeHub-f04f88?logo=opencollective&logoColor=white&style=flat-square
+[sponsor-link]: https://opencollective.com/lobehub "Become 🩷 LobeHub Sponsor"
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -49,8 +52,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 ### 🤝 Contributing
 
-> \[!IMPORTANT]
-> Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
+Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
 
 <a href="https://next.ossinsight.io/analyze/lobehub#overview" target="_blank">
   <table>
@@ -83,6 +85,17 @@ We are a group of passionate design engineers, hoping to provide modern design c
       </td>
     </tr>
   </table>
+</a>
+
+### 🩷 Sponsor
+
+Every bit counts and your one-time donation sparkles in our galaxy of support! You're a shooting star, making a swift and bright impact on our journey. Thank you for believing in us – your generosity guides us toward our mission, one brilliant flash at a time.
+
+<a href="https://opencollective.com/lobehub" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-wizard.lobehub.com/api/sponsor?themeMode=dark">
+    <img  src="https://readme-wizard.lobehub.com/api/sponsor">
+  </picture>
 </a>
 
 > _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
