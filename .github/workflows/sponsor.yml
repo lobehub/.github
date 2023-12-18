@@ -1,0 +1,28 @@
+name: Sponsor Generator
+
+on:
+  schedule: [{ cron: '0 0 * * *' }]
+  workflow_dispatch:
+
+jobs:
+  autoflow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Curl light
+        run: curl -o './static/sponsor-light.png' 'https://readme-wizard.lobehub.com/api/sponsor'
+
+      - name: Curl dark
+        run: curl -o './static/sponsor-dark.png' 'https://readme-wizard.lobehub.com/api/sponsor?themeMode=dark'
+
+      - name: Commit changes
+        run: |-
+          git diff
+          git config --global user.name "lobehubbot"
+          git config --global user.email "i@lobehub.com"
+          git add .
+          git commit -m "🤖 chore: Auto update sponsor list" || exit 0
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
