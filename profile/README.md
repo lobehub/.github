@@ -24,7 +24,7 @@ Empowering your AI dreams with LobeHub
 
 ### 👋🏻 Welcome to LobeHub
 
-We are a group of passionate design engineers, hoping to provide modern design components and tools for AIGC, and creating a technology-driven forum, fostering knowledge interaction and the exchange of ideas that may culminate in mutual inspiration and collaborative innovation. Whether for users or professional developers,
+We are a group of e/acc design-engineers, hoping to provide modern design components and tools for AIGC, and creating a technology-driven forum, fostering knowledge interaction and the exchange of ideas that may culminate in mutual inspiration and collaborative innovation. Whether for users or professional developers,
 LobeHub will be your AI Agent playground.
 
 ### ⭐️ Our Projects
