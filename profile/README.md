@@ -24,7 +24,8 @@ Empowering your AI dreams with LobeHub
 
 ### 👋🏻 Welcome to LobeHub
 
-We are a group of passionate design engineers, hoping to provide modern design components and tools for AIGC, and share them in an open-source manner to promote their development and adoption in a broader community.
+We are a group of passionate design engineers, hoping to provide modern design components and tools for AIGC, and creating a technology-driven forum, fostering knowledge interaction and the exchange of ideas that may culminate in mutual inspiration and collaborative innovation. Whether for users or professional developers,
+LobeHub will be your AI Agent playground.
 
 ### ⭐️ Our Projects
 
@@ -52,7 +53,7 @@ We are a group of passionate design engineers, hoping to provide modern design c
 
 ### 🤝 Contributing
 
-Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
+We foster trust and welcome all forms of open-source collaboration and creative contributions to jointly advance the innovation of personalized AI tools, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
 
 <a href="https://next.ossinsight.io/analyze/lobehub#overview" target="_blank">
   <table>
