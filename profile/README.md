@@ -107,7 +107,6 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 >
 > **Principal Maintainers:** [@arvinxx](https://github.com/arvinxx) [@canisminor1990](https://github.com/canisminor1990)
 
-
 <!-- LINK GROUP -->
 
 [discord-link]: https://discord.gg/AYFPHvv2jT
