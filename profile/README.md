@@ -34,12 +34,12 @@ LobeHub will be your AI Agent playground.
 
 ### 📦 Ecosystem
 
-| NAME                              | REPO                                    | NPM                                       | DATE                 | DOWNLOADS                 |
-| --------------------------------- | --------------------------------------- | ----------------------------------------- | -------------------- | ------------------------- |
-| [@lobehub/ui][lobe-ui-link]       | [lobehub/lobe-ui][lobe-ui-github]       | [![][lobe-ui-shield]][lobe-ui-link]       | ![][lobe-ui-date]    | ![][lobe-ui-downloads]    |
-| [@lobehub/icons][lobe-icons-link] | [lobehub/lobe-icons][lobe-icons-github] | [![][lobe-icons-shield]][lobe-icons-link] | ![][lobe-icons-date] | ![][lobe-icons-downloads] |
-| [@lobehub/tts][lobe-tts-link]     | [lobehub/lobe-tts][lobe-tts-github]     | [![][lobe-tts-shield]][lobe-tts-link]     | ![][lobe-tts-date]   | ![][lobe-tts-downloads]   |
-| [@lobehub/lint][lobe-lint-link]   | [lobehub/lobe-lint][lobe-lint-github]   | [![][lobe-lint-shield]][lobe-lint-link]   | ![][lobe-lint-date]  | ![][lobe-lint-downloads]  |
+| Repos                                  | Packages                          | Version                                   | Release Date         | Downloads                 |
+| :------------------------------------- | :-------------------------------- | :---------------------------------------- | :------------------- | :------------------------ |
+| [**🍭 Lobe UI**][lobe-ui-github]       | [@lobehub/ui][lobe-ui-link]       | [![][lobe-ui-shield]][lobe-ui-link]       | ![][lobe-ui-date]    | ![][lobe-ui-downloads]    |
+| [**🥨 Lobe Icons**][lobe-icons-github] | [@lobehub/icons][lobe-icons-link] | [![][lobe-icons-shield]][lobe-icons-link] | ![][lobe-icons-date] | ![][lobe-icons-downloads] |
+| [**🎤 Lobe TTS**][lobe-tts-github]     | [@lobehub/tts][lobe-tts-link]     | [![][lobe-tts-shield]][lobe-tts-link]     | ![][lobe-tts-date]   | ![][lobe-tts-downloads]   |
+| [**📐 Lobe Lint**][lobe-lint-github]   | [@lobehub/lint][lobe-lint-link]   | [![][lobe-lint-shield]][lobe-lint-link]   | ![][lobe-lint-date]  | ![][lobe-lint-downloads]  |
 
 ### 🤝 Contributing
 
