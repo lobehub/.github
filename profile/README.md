@@ -26,7 +26,7 @@ LobeHub will be your AI Agent playground.
 
 ### ⭐️ Our Projects
 
-| [**🤯 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github]                      | [![][lobe-chat-cover]][lobe-chat-github]     |
+| [**🤯 Lobe Chat**][lobe-chat-github]<br/>An open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github]                      | [![][lobe-chat-cover]][lobe-chat-github]     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
 | [**🅰️ Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                     | [![][lobe-theme-cover]][lobe-theme-github]   |
 | [**💌 Lobe Commit**][lobe-commit-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>[![][lobe-commit-shield]][lobe-commit-npm]                                                                                                  | [![][lobe-commit-cover]][lobe-commit-github] |
