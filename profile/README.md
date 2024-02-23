@@ -26,9 +26,9 @@ LobeHub will be your AI Agent playground.
 
 ### ⭐️ Our Projects
 
-| [**🤖 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github]                      | [![][lobe-chat-cover]][lobe-chat-github]     |
+| [**🤯 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github]                      | [![][lobe-chat-cover]][lobe-chat-github]     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
-| [**🤯 Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                     | [![][lobe-theme-cover]][lobe-theme-github]   |
+| [**🅰️ Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                     | [![][lobe-theme-cover]][lobe-theme-github]   |
 | [**💌 Lobe Commit**][lobe-commit-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>[![][lobe-commit-shield]][lobe-commit-npm]                                                                                                  | [![][lobe-commit-cover]][lobe-commit-github] |
 | [**🌏 Lobe i18n**][lobe-i18n-github]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 
@@ -78,7 +78,7 @@ We foster trust and welcome all forms of open-source collaboration and creative 
   </table>
 </a>
 
-### 🩷 Sponsor
+### ❤️ Sponsor
 
 Every bit counts and your one-time donation sparkles in our galaxy of support! You're a shooting star, making a swift and bright impact on our journey. Thank you for believing in us – your generosity guides us toward our mission, one brilliant flash at a time.
 
