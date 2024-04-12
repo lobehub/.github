@@ -32,7 +32,7 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 | [**🤯 Lobe Chat**][lobe-chat-github]<br/>An open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github] | [![][lobe-chat-cover]][lobe-chat-github]     |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
 | [**🅰️ Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                                           | [![][lobe-theme-cover]][lobe-theme-github]   |
-| [**💌 Lobe Commit**][lobe-commit-github]<br/>CLI tool that leverages Langchain/ChatGPT to generate Gitmoji-based commit messages.<br/><br/>[![][lobe-commit-shield]][lobe-commit-npm]                                                                                                                        | [![][lobe-commit-cover]][lobe-commit-github] |
+| [**🧸 Lobe Vidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github]                                                                                                                        | [![][lobe-vidol-cover]][lobe-vidol-github] |
 | [**🌏 Lobe i18n**][lobe-i18n-github]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm]                       | [![][lobe-i18n-cover]][lobe-i18n-github]     |
 
 ### 📦 Ecosystem
@@ -109,9 +109,9 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-chat-cover]: https://gw.alipayobjects.com/zos/kitchen/sLO%24gbrQtp/lobe-chat.webp
 [lobe-chat-github]: https://github.com/lobehub/lobe-chat
 [lobe-chat-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat?color=ffcb47&labelColor=black&style=flat-square&logo=github
-[lobe-commit-cover]: https://gw.alipayobjects.com/zos/kitchen/3%26ByxtP39X/preview.webp
-[lobe-commit-github]: https://github.com/lobehub/lobe-cli-toolbox/tree/master/packages/lobe-commit
-[lobe-commit-npm]: https://www.npmjs.com/package/@lobehub/commit-cli
+[lobe-vidol-cover]: https://github.com/lobehub/.github/assets/17870709/5bd39ca7-df0d-41a4-bfeb-c97147ee1ca3
+[lobe-vidol-github]: https://github.com/lobehub/lobe-vidol
+[lobe-vidol-shield]: https://img.shields.io/github/stars/lobehub/lobe-vidol?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-commit-shield]: https://img.shields.io/npm/dt/@lobehub/commit-cli?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-i18n-cover]: https://gw.alipayobjects.com/zos/kitchen/AH7rvv06qn/preview-i18n.webp
 [lobe-i18n-github]: https://github.com/lobehub/lobe-cli-toolbox/tree/master/packages/lobe-i18n
