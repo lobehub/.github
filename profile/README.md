@@ -27,9 +27,9 @@ By adopting the Bootstrapping approach, we aim to provide developers and users w
 
 Whether for users or professional developers, LobeHub will be your AI Agent playground.
 
-[![waitlist-md](https://github.com/lobehub/.github/assets/17870709/a4141061-2e45-4315-be04-ebe2a4dc9b5e)][vercel-link] 
+[![waitlist-md](https://github.com/lobehub/.github/assets/17870709/a4141061-2e45-4315-be04-ebe2a4dc9b5e)][vercel-link]
 
-> [!IMPORTANT]
+> \[!IMPORTANT]
 > Join the [WAITLIST][vercel-link] today and experience the future of conversational AI with LobeChat.
 
 ### ⭐️ Our Projects
