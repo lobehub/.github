@@ -30,7 +30,7 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 [![waitlist-md](https://github.com/lobehub/.github/assets/17870709/a4141061-2e45-4315-be04-ebe2a4dc9b5e)][vercel-link]
 
 > \[!IMPORTANT]
-> Join the [WAITLIST][vercel-link] today and experience the future of conversational AI with LobeChat.
+> LobeChat Cloud is currently in beta testing. Please join the [WAITLIST][vercel-link] and wait for email notification. We will regularly open the whitelist.
 
 ### ⭐️ Our Projects
 
