@@ -16,6 +16,7 @@ jobs:
           if [ $? -eq 0 ] && [ -s './static/temp-sponsor-light.png' ]; then
             mv './static/temp-sponsor-light.png' './static/sponsor-light.png'
           else
+            rm './static/temp-sponsor-light.png'
             echo "Curl failed or file is empty, keeping the original sponsor-light.png"
           fi
 
@@ -25,6 +26,7 @@ jobs:
           if [ $? -eq 0 ] && [ -s './static/temp-sponsor-dark.png' ]; then
             mv './static/temp-sponsor-dark.png' './static/sponsor-dark.png'
           else
+            rm './static/temp-sponsor-dark.png'
             echo "Curl failed or file is empty, keeping the original sponsor-dark.png"
           fi
 
