@@ -30,7 +30,7 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 [![public-beta](https://github.com/user-attachments/assets/c5cd0023-3369-4311-9239-1589a0ab37e6)](https://lobechat.com)
 
 > \[!IMPORTANT]
-> LobeChat Cloud is currently in `Public Beta`. to start a [Free Trial](https://lobechat.com) with **500,000** Credits.
+> LobeChat Cloud is currently in `Public Beta`. to start a [Free Trial](https://lobechat.com) with **450,000** Credits.
 
 ### ⭐️ Our Projects
 
