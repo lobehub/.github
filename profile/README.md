@@ -27,10 +27,11 @@ By adopting the Bootstrapping approach, we aim to provide developers and users w
 
 Whether for users or professional developers, LobeHub will be your AI Agent playground.
 
-[![waitlist-md](https://github.com/lobehub/.github/assets/17870709/a4141061-2e45-4315-be04-ebe2a4dc9b5e)][vercel-link]
+
+[![public-beta](https://github.com/user-attachments/assets/c5cd0023-3369-4311-9239-1589a0ab37e6)](https://lobechat.com)
 
 > \[!IMPORTANT]
-> LobeChat Cloud is currently in beta testing. Please join the [WAITLIST][vercel-link] and wait for email notification. We will regularly open the whitelist.
+> LobeChat Cloud is currently in `Public Beta`. to start a [Free Trial](https://lobechat.com) with **500,000** Credits.
 
 ### ⭐️ Our Projects
 
