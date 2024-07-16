@@ -46,6 +46,7 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 | :------------------------------------- | :-------------------------------- | :---------------------------------------- | :------------------- | :------------------------ |
 | [**🍭 Lobe UI**][lobe-ui-github]       | [@lobehub/ui][lobe-ui-link]       | [![][lobe-ui-shield]][lobe-ui-link]       | ![][lobe-ui-date]    | ![][lobe-ui-downloads]    |
 | [**🥨 Lobe Icons**][lobe-icons-github] | [@lobehub/icons][lobe-icons-link] | [![][lobe-icons-shield]][lobe-icons-link] | ![][lobe-icons-date] | ![][lobe-icons-downloads] |
+| [**📊 Lobe Charts**][lobe-charts-github] | [@lobehub/charts][lobe-charts-link] | [![][lobe-charts-shield]][lobe-charts-link] | ![][lobe-charts-date] | ![][lobe-charts-downloads] |
 | [**🎤 Lobe TTS**][lobe-tts-github]     | [@lobehub/tts][lobe-tts-link]     | [![][lobe-tts-shield]][lobe-tts-link]     | ![][lobe-tts-date]   | ![][lobe-tts-downloads]   |
 | [**📐 Lobe Lint**][lobe-lint-github]   | [@lobehub/lint][lobe-lint-link]   | [![][lobe-lint-shield]][lobe-lint-link]   | ![][lobe-lint-date]  | ![][lobe-lint-downloads]  |
 
@@ -127,6 +128,13 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-icons-github]: https://github.com/lobehub/lobe-icons
 [lobe-icons-link]: https://www.npmjs.com/package/@lobehub/icons
 [lobe-icons-shield]: https://img.shields.io/npm/v/@lobehub/icons?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+
+[lobe-charts-date]: https://img.shields.io/github/release-date/lobehub/lobe-charts?labelColor=black&style=flat-square
+[lobe-charts-downloads]: https://img.shields.io/npm/dt/@lobehub/charts?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[lobe-charts-github]: https://github.com/lobehub/lobe-charts
+[lobe-charts-link]: https://www.npmjs.com/package/@lobehub/charts
+[lobe-charts-shield]: https://img.shields.io/npm/v/@lobehub/charts?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+
 [lobe-lint-date]: https://img.shields.io/github/release-date/lobehub/lobe-lint?labelColor=black&style=flat-square
 [lobe-lint-downloads]: https://img.shields.io/npm/dt/@lobehub/lint?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-lint-github]: https://github.com/lobehub/lobe-lint
