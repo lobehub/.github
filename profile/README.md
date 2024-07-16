@@ -27,7 +27,6 @@ By adopting the Bootstrapping approach, we aim to provide developers and users w
 
 Whether for users or professional developers, LobeHub will be your AI Agent playground.
 
-
 [![public-beta](https://github.com/user-attachments/assets/c5cd0023-3369-4311-9239-1589a0ab37e6)](https://lobechat.com)
 
 > \[!IMPORTANT]
