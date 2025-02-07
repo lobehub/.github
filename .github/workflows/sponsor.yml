@@ -18,6 +18,13 @@ jobs:
 
       - name: Generate sponsor list
         run: bun run build:spnsor
+        env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: ${{ secrets.SPONSORKIT_GITHUB_LOGIN }}
+          SPONSORKIT_GITHUB_TYPE: ${{ secrets.SPONSORKIT_GITHUB_TYPE }}
+          SPONSORKIT_OPENCOLLECTIVE_ID: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_ID }}
+          SPONSORKIT_OPENCOLLECTIVE_KEY: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_KEY }}
+          SPONSORKIT_OPENCOLLECTIVE_TYPE: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_TYPE }}
 
       - name: Commit changes
         run: |-
