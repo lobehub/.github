@@ -14,9 +14,10 @@
   "scripts": {
     "lint": "npm run lint:md && npm run prettier",
     "lint:md": "remark . --quiet --output",
-    "prepare": "husky install",
+    "prepare": "husky",
     "prettier": "prettier -c --write --no-error-on-unmatched-pattern \"**/**\"",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "build:spnsor": "bun ./scripts/genSponsor.ts"
   },
   "lint-staged": {
     "*.md": [
@@ -28,12 +29,14 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "^18.0.0",
+    "@commitlint/cli": "^19.7.1",
     "@lobehub/lint": "latest",
-    "husky": "^8",
-    "lint-staged": "^15",
-    "prettier": "^3",
-    "remark": "^15",
-    "remark-cli": "^12"
+    "@lobehub/readme-wizard": "^0.10.4",
+    "consola": "^3.4.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.4.3",
+    "prettier": "^3.4.2",
+    "remark": "^15.0.1",
+    "remark-cli": "^12.0.1"
   }
 }

@@ -10,25 +10,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Curl light
-        run: |-
-          curl -o './static/temp-sponsor-light.png' 'https://readme-wizard.lobehub.com/api/sponsor'
-          if [ $? -eq 0 ] && [ -s './static/temp-sponsor-light.png' ]; then
-            mv './static/temp-sponsor-light.png' './static/sponsor-light.png'
-          else
-            rm './static/temp-sponsor-light.png'
-            echo "Curl failed or file is empty, keeping the original sponsor-light.png"
-          fi
+      - name: Install bun
+        uses: oven-sh/setup-bun@v2
 
-      - name: Curl dark
-        run: |-
-          curl -o './static/temp-sponsor-dark.png' 'https://readme-wizard.lobehub.com/api/sponsor?themeMode=dark'
-          if [ $? -eq 0 ] && [ -s './static/temp-sponsor-dark.png' ]; then
-            mv './static/temp-sponsor-dark.png' './static/sponsor-dark.png'
-          else
-            rm './static/temp-sponsor-dark.png'
-            echo "Curl failed or file is empty, keeping the original sponsor-dark.png"
-          fi
+      - name: Install deps
+        run: bun i
+
+      - name: Generate sponsor list
+        run: bun run build:spnsor
 
       - name: Commit changes
         run: |-
