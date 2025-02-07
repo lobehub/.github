@@ -5,18 +5,14 @@ import { consola } from "consola";
 
 const gen = async (themeMode: "light" | "dark") => {
   consola.start(`Generating sponsor-${themeMode}.png`);
-  try {
-    const res = await genSponsor({ themeMode });
-    const arrayBuffer = await res.arrayBuffer();
-    const buffer = Buffer.from(arrayBuffer);
-    writeFileSync(
-      resolve(__dirname, "../static", `sponsor-${themeMode}.png`),
-      buffer,
-    );
-    consola.success(`sponsor-${themeMode}.png generated`);
-  } catch (error) {
-    consola.error(error);
-  }
+  const res = await genSponsor({ themeMode });
+  const arrayBuffer = await res.arrayBuffer();
+  const buffer = Buffer.from(arrayBuffer);
+  writeFileSync(
+    resolve(__dirname, "../static", `sponsor-${themeMode}.png`),
+    buffer,
+  );
+  consola.success(`sponsor-${themeMode}.png generated`);
 };
 
 gen("light");
