@@ -21,7 +21,7 @@ jobs:
         env:
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: lobehub
-          SPONSORKIT_GITHUB_TYPE: collective
+          SPONSORKIT_GITHUB_TYPE: organization
           SPONSORKIT_OPENCOLLECTIVE_ID: lobehub
           SPONSORKIT_OPENCOLLECTIVE_KEY: ${{ secrets.SPONSORKIT_OPENCOLLECTIVE_KEY }}
           SPONSORKIT_OPENCOLLECTIVE_TYPE: collective
