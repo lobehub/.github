@@ -47,6 +47,7 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 | [**🍭 Lobe UI**][lobe-ui-github]         | [@lobehub/ui][lobe-ui-link]         | [![][lobe-ui-shield]][lobe-ui-link]         | ![][lobe-ui-date]     | ![][lobe-ui-downloads]     |
 | [**🥨 Lobe Icons**][lobe-icons-github]   | [@lobehub/icons][lobe-icons-link]   | [![][lobe-icons-shield]][lobe-icons-link]   | ![][lobe-icons-date]  | ![][lobe-icons-downloads]  |
 | [**📊 Lobe Charts**][lobe-charts-github] | [@lobehub/charts][lobe-charts-link] | [![][lobe-charts-shield]][lobe-charts-link] | ![][lobe-charts-date] | ![][lobe-charts-downloads] |
+| [**✒️ Lobe Editor**][lobe-editor-github]   | [@lobehub/editor][lobe-editor-link]   | [![][lobe-editor-shield]][lobe-editor-link]   | ![][lobe-editor-date]  | ![][lobe-editor-downloads]  |
 | [**🎤 Lobe TTS**][lobe-tts-github]       | [@lobehub/tts][lobe-tts-link]       | [![][lobe-tts-shield]][lobe-tts-link]       | ![][lobe-tts-date]    | ![][lobe-tts-downloads]    |
 | [**📐 Lobe Lint**][lobe-lint-github]     | [@lobehub/lint][lobe-lint-link]     | [![][lobe-lint-shield]][lobe-lint-link]     | ![][lobe-lint-date]   | ![][lobe-lint-downloads]   |
 
@@ -151,6 +152,11 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-ui-github]: https://github.com/lobehub/lobe-ui
 [lobe-ui-link]: https://www.npmjs.com/package/@lobehub/ui
 [lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[lobe-editor-date]: https://img.shields.io/github/release-date/lobehub/lobe-editor?labelColor=black&style=flat-square
+[lobe-editor-downloads]: https://img.shields.io/npm/dt/@lobehub/editor?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[lobe-editor-github]: https://github.com/lobehub/lobe-editor
+[lobe-editor-link]: https://www.npmjs.com/package/@lobehub/editor
+[lobe-editor-shield]: https://img.shields.io/npm/v/@lobehub/editor?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [social-x-link]: https://x.com/lobehub
 [social-x-shield]: https://img.shields.io/badge/-%40lobehub-white?labelColor=black&logo=x&logoColor=white&style=flat-square
 [sponsor-link]: https://opencollective.com/lobehub "Become 🩷 LobeHub Sponsor"
