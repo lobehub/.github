@@ -7,7 +7,7 @@
   <img height="90" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.2.0/files/assets/logo-combine-dark.webp">
 </picture>
 
-Empowering your AI dreams with LobeHub
+Agent teams that grow with you
 
 [![][vercel-shield]][vercel-link]
 [![][discord-shield]][discord-link]
