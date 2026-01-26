@@ -21,11 +21,7 @@ Agent teams that grow with you
 
 ### 👋🏻 Welcome to LobeHub
 
-We are a group of e/acc design-engineers, hoping to provide modern design components and tools for AIGC, and creating a technology-driven forum, fostering knowledge interaction and the exchange of ideas that may culminate in mutual inspiration and collaborative innovation.
-
-By adopting the Bootstrapping approach, we aim to provide developers and users with a more open, transparent, and user-friendly product ecosystem.
-
-Whether for users or professional developers, LobeHub will be your AI Agent playground.
+The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you.
 
 [![public-beta](https://github.com/user-attachments/assets/c5cd0023-3369-4311-9239-1589a0ab37e6)](https://lobechat.com)
 
@@ -34,22 +30,22 @@ Whether for users or professional developers, LobeHub will be your AI Agent play
 
 ### ⭐️ Our Projects
 
-| [**🤯 Lobe Chat**][lobe-chat-github]<br/>An open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github] | [![][lobe-chat-cover]][lobe-chat-github]   |
+| [**🤯 LobeHub**][lobe-chat-github]<br/>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github] | [![][lobe-chat-cover]][lobe-chat-github]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**🅰️ Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                                           | [![][lobe-theme-cover]][lobe-theme-github] |
-| [**🧸 Lobe Vidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github]                 | [![][lobe-vidol-cover]][lobe-vidol-github] |
-| [**🌏 Lobe i18n**][lobe-i18n-github]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm]                       | [![][lobe-i18n-cover]][lobe-i18n-github]   |
+| [**🅰️ LobeTheme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                                           | [![][lobe-theme-cover]][lobe-theme-github] |
+| [**🧸 LobeVidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github]                 | [![][lobe-vidol-cover]][lobe-vidol-github] |
+| [**🌏 LobeI18n**][lobe-i18n-github]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm]                       | [![][lobe-i18n-cover]][lobe-i18n-github]   |
 
 ### 📦 Ecosystem
 
 | Repos                                    | Packages                            | Version                                     | Release Date          | Downloads                  |
 | :--------------------------------------- | :---------------------------------- | :------------------------------------------ | :-------------------- | :------------------------- |
-| [**🍭 Lobe UI**][lobe-ui-github]         | [@lobehub/ui][lobe-ui-link]         | [![][lobe-ui-shield]][lobe-ui-link]         | ![][lobe-ui-date]     | ![][lobe-ui-downloads]     |
-| [**🥨 Lobe Icons**][lobe-icons-github]   | [@lobehub/icons][lobe-icons-link]   | [![][lobe-icons-shield]][lobe-icons-link]   | ![][lobe-icons-date]  | ![][lobe-icons-downloads]  |
-| [**📊 Lobe Charts**][lobe-charts-github] | [@lobehub/charts][lobe-charts-link] | [![][lobe-charts-shield]][lobe-charts-link] | ![][lobe-charts-date] | ![][lobe-charts-downloads] |
-| [**✒️ Lobe Editor**][lobe-editor-github]   | [@lobehub/editor][lobe-editor-link]   | [![][lobe-editor-shield]][lobe-editor-link]   | ![][lobe-editor-date]  | ![][lobe-editor-downloads]  |
-| [**🎤 Lobe TTS**][lobe-tts-github]       | [@lobehub/tts][lobe-tts-link]       | [![][lobe-tts-shield]][lobe-tts-link]       | ![][lobe-tts-date]    | ![][lobe-tts-downloads]    |
-| [**📐 Lobe Lint**][lobe-lint-github]     | [@lobehub/lint][lobe-lint-link]     | [![][lobe-lint-shield]][lobe-lint-link]     | ![][lobe-lint-date]   | ![][lobe-lint-downloads]   |
+| [**🍭 LobeUI**][lobe-ui-github]         | [@lobehub/ui][lobe-ui-link]         | [![][lobe-ui-shield]][lobe-ui-link]         | ![][lobe-ui-date]     | ![][lobe-ui-downloads]     |
+| [**🥨 LobeIcons**][lobe-icons-github]   | [@lobehub/icons][lobe-icons-link]   | [![][lobe-icons-shield]][lobe-icons-link]   | ![][lobe-icons-date]  | ![][lobe-icons-downloads]  |
+| [**📊 LobeCharts**][lobe-charts-github] | [@lobehub/charts][lobe-charts-link] | [![][lobe-charts-shield]][lobe-charts-link] | ![][lobe-charts-date] | ![][lobe-charts-downloads] |
+| [**✒️ LobeEditor**][lobe-editor-github]   | [@lobehub/editor][lobe-editor-link]   | [![][lobe-editor-shield]][lobe-editor-link]   | ![][lobe-editor-date]  | ![][lobe-editor-downloads]  |
+| [**🎤 LobeTTS**][lobe-tts-github]       | [@lobehub/tts][lobe-tts-link]       | [![][lobe-tts-shield]][lobe-tts-link]       | ![][lobe-tts-date]    | ![][lobe-tts-downloads]    |
+| [**📐 LobeLint**][lobe-lint-github]     | [@lobehub/lint][lobe-lint-link]     | [![][lobe-lint-shield]][lobe-lint-link]     | ![][lobe-lint-date]   | ![][lobe-lint-downloads]   |
 
 ### 🤝 Contributing
 
