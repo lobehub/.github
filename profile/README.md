@@ -120,7 +120,7 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [github-link]: https://github.com/lobehub
 [github-star]: https://img.shields.io/github/stars/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
-[lobe-chat-cover]: https://gw.alipayobjects.com/zos/kitchen/sLO%24gbrQtp/lobe-chat.webp
+[lobe-chat-cover]: https://repository-images.githubusercontent.com/643445235/04ef610f-69b2-4044-9565-9a7b9e2fd65e
 [lobe-chat-github]: https://github.com/lobehub/lobe-chat
 [lobe-chat-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-vidol-cover]: https://github.com/lobehub/.github/assets/17870709/5bd39ca7-df0d-41a4-bfeb-c97147ee1ca3
