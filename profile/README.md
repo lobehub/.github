@@ -21,12 +21,23 @@ Agent teammates that grow with you
 
 ### 👋🏻 Welcome to LobeHub
 
-The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you.
+LobeHub is a work-and-lifestyle space to find, build, and collaborate with agent teammates that grow with you. In LobeHub, we treat **Agents as the unit of work**, providing an infrastructure where humans and agents co-evolve.
 
-[![public-beta](https://github.com/user-attachments/assets/c5cd0023-3369-4311-9239-1589a0ab37e6)](https://lobechat.com)
 
-> \[!IMPORTANT]
-> LobeChat Cloud is currently in `Public Beta`. to start a [Free Trial](https://lobechat.com) with **500,000** Credits.
+<a href="https://www.producthunt.com/products/lobehub?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">
+  <table>
+    <tr>
+      <td>
+        <img height="360" alt="LobeHub - Agent teammates that grow with you | Product Hunt" src="https://github.com/user-attachments/assets/192482ae-f56f-423c-b950-630af0785a00"/
+      </td>
+      <td rowspan="2">
+🚀 We are live on Product Hunt! We are thrilled to bring LobeHub to the world. If you believe in a future where humans and agents co-evolve, please <a href="https://www.producthunt.com/products/lobehub?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">support our journey</a>.
+      </td>
+    </tr>
+</a>
+
+
+
 
 ### ⭐️ Our Projects
 
