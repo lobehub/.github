@@ -21,7 +21,7 @@ Agent teammates that grow with you
 
 ### 👋🏻 Welcome to LobeHub
 
-LobeHub is a work-and-lifestyle space to find, build, and collaborate with agent teammates that grow with you. In LobeHub, we treat **Agents as the unit of work**, providing an infrastructure where humans and agents co-evolve.
+LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 
 
 <a href="https://www.producthunt.com/products/lobehub?launch=lobehub-2&embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">
@@ -41,7 +41,7 @@ LobeHub is a work-and-lifestyle space to find, build, and collaborate with agent
 
 ### ⭐️ Our Projects
 
-| [**🤯 LobeHub**][lobe-chat-github]<br/>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github] | [![][lobe-chat-cover]][lobe-chat-github]   |
+| [**🤯 LobeHub**][lobe-chat-github]<br/LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github] | [![][lobe-chat-cover]][lobe-chat-github]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
 | [**🅰️ LobeTheme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                                           | [![][lobe-theme-cover]][lobe-theme-github] |
 | [**🧸 LobeVidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github]                 | [![][lobe-vidol-cover]][lobe-vidol-github] |
