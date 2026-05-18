@@ -42,7 +42,7 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
 
 ### ⭐️ Our Projects
 
-| [**🤯 LobeHub**][lobehub-github]<br/LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.<br/><br/>[![][lobehub-shield]][lobehub-github] | [![][lobehub-cover]][lobehub-github]   |
+| [**🤯 LobeHub**][lobehub-github]<br/>LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.<br/><br/>[![][lobehub-shield]][lobehub-github] | [![][lobehub-cover]][lobehub-github]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
 | [**🅰️ LobeTheme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                                           | [![][lobe-theme-cover]][lobe-theme-github] |
 | [**🧸 LobeVidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github]                 | [![][lobe-vidol-cover]][lobe-vidol-github] |
