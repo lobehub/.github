@@ -7,6 +7,7 @@
   <img height="90" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.2.0/files/assets/logo-combine-dark.webp">
 </picture>
 
+
 Agent teammates that grow with you
 
 [![][vercel-shield]][vercel-link]
@@ -41,7 +42,7 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
 
 ### ⭐️ Our Projects
 
-| [**🤯 LobeHub**][lobe-chat-github]<br/LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.<br/><br/>[![][lobe-chat-shield]][lobe-chat-github] | [![][lobe-chat-cover]][lobe-chat-github]   |
+| [**🤯 LobeHub**][lobehub-github]<br/LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.<br/><br/>[![][lobehub-shield]][lobehub-github] | [![][lobehub-cover]][lobehub-github]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
 | [**🅰️ LobeTheme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github]                                                                           | [![][lobe-theme-cover]][lobe-theme-github] |
 | [**🧸 LobeVidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github]                 | [![][lobe-vidol-cover]][lobe-vidol-github] |
@@ -120,9 +121,9 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [github-link]: https://github.com/lobehub
 [github-star]: https://img.shields.io/github/stars/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
-[lobe-chat-cover]: https://repository-images.githubusercontent.com/643445235/04ef610f-69b2-4044-9565-9a7b9e2fd65e
-[lobe-chat-github]: https://github.com/lobehub/lobe-chat
-[lobe-chat-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat?color=ffcb47&labelColor=black&style=flat-square&logo=github
+[lobehub-cover]: https://github.com/user-attachments/assets/56f2f1e1-f9f3-484a-a890-0a61d61837f3
+[lobehub-github]: https://github.com/lobehub/lobehub
+[lobehub-shield]: https://img.shields.io/github/stars/lobehub/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-vidol-cover]: https://github.com/lobehub/.github/assets/17870709/5bd39ca7-df0d-41a4-bfeb-c97147ee1ca3
 [lobe-vidol-github]: https://github.com/lobehub/lobe-vidol
 [lobe-vidol-shield]: https://img.shields.io/github/stars/lobehub/lobe-vidol?color=ffcb47&labelColor=black&style=flat-square&logo=github
