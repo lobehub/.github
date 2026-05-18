@@ -8,7 +8,7 @@
 </picture>
 
 
-Agent teammates that grow with you
+Your Chief Agent Operator
 
 [![][vercel-shield]][vercel-link]
 [![][discord-shield]][discord-link]
