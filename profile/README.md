@@ -29,10 +29,12 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
   <table>
     <tr>
       <td>
-        <img height="360" alt="LobeHub - Agent teammates that grow with you | Product Hunt" src="https://github.com/user-attachments/assets/192482ae-f56f-423c-b950-630af0785a00"/
+        <a href="https://www.producthunt.com/products/lobehub?launch=lobehub-2&embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">
+        <img height="360" alt="LobeHub - Agent teammates that grow with you | Product Hunt" src="https://github.com/user-attachments/assets/192482ae-f56f-423c-b950-630af0785a00"/>
+        </a>
       </td>
       <td rowspan="2">
-🚀 We are live on Product Hunt! We are thrilled to bring LobeHub to the world. If you believe in a future where humans and agents co-evolve, please <a href="https://www.producthunt.com/products/lobehub?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">support our journey</a>.
+🚀 We are live on Product Hunt! We are thrilled to bring LobeHub to the world. If you believe in a future where humans and agents co-evolve, please <a href="https://www.producthunt.com/products/lobehub?launch=lobehub-2&embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">support our journey</a>.
       </td>
     </tr>
 </a>
