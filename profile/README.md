@@ -3,8 +3,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/assets-logo/1.2.0/files/assets/logo-combine.webp">
-  <img height="90" src="https://registry.npmmirror.com/@lobehub/assets-logo/1.2.0/files/assets/logo-combine-dark.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-combine.webp">
+  <img height="90" src="https://raw.githubusercontent.com/lobehub/lobe-assets/master/packages/assets-logo/assets/logo-combine-dark.webp">
 </picture>
 
 
@@ -133,7 +133,7 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-vidol-github]: https://github.com/lobehub/lobe-vidol
 [lobe-vidol-shield]: https://img.shields.io/github/stars/lobehub/lobe-vidol?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-commit-shield]: https://img.shields.io/npm/dt/@lobehub/commit-cli?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-i18n-cover]: https://gw.alipayobjects.com/zos/kitchen/AH7rvv06qn/preview-i18n.webp
+[lobe-i18n-cover]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/assets/lobe-i18n-preview.webp
 [lobe-i18n-github]: https://github.com/lobehub/lobe-cli-toolbox/tree/master/packages/lobe-i18n
 [lobe-i18n-npm]: https://www.npmjs.com/package/@lobehub/i18n-cli
 [lobe-i18n-shield]: https://img.shields.io/npm/dt/@lobehub/i18n-cli?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
@@ -152,7 +152,7 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-lint-github]: https://github.com/lobehub/lobe-lint
 [lobe-lint-link]: https://www.npmjs.com/package/@lobehub/lint
 [lobe-lint-shield]: https://img.shields.io/npm/v/@lobehub/lint?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-theme-cover]: https://gw.alipayobjects.com/zos/kitchen/8Ab%24hLJ5ur/cover.webp
+[lobe-theme-cover]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/assets/lobe-theme-cover.webp
 [lobe-theme-github]: https://github.com/lobehub/sd-webui-lobe-theme
 [lobe-theme-shield]: https://img.shields.io/github/stars/lobehub/sd-webui-lobe-theme?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-tts-date]: https://img.shields.io/github/release-date/lobehub/lobe-tts?labelColor=black&style=flat-square
