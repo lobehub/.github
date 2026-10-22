@@ -63,6 +63,9 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
 | [**✒️ LobeEditor**][lobe-editor-github]   | [@lobehub/editor][lobe-editor-link]   | [![][lobe-editor-shield]][lobe-editor-link]   | ![][lobe-editor-date]  | ![][lobe-editor-downloads]  |
 | [**🎤 LobeTTS**][lobe-tts-github]       | [@lobehub/tts][lobe-tts-link]       | [![][lobe-tts-shield]][lobe-tts-link]       | ![][lobe-tts-date]    | ![][lobe-tts-downloads]    |
 | [**📐 LobeLint**][lobe-lint-github]     | [@lobehub/lint][lobe-lint-link]     | [![][lobe-lint-shield]][lobe-lint-link]     | ![][lobe-lint-date]   | ![][lobe-lint-downloads]   |
+| [**😀 FluentEmoji**][fluent-emoji-github] | [@lobehub/fluent-emoji][fluent-emoji-link] | [![][fluent-emoji-shield]][fluent-emoji-link] | ![][fluent-emoji-date] | ![][fluent-emoji-downloads] |
+| [**📖 DocsKit**][docs-kit-github]       | [@lobehub/docs-kit][docs-kit-link]  | [![][docs-kit-shield]][docs-kit-link]       | ![][docs-kit-date]    | ![][docs-kit-downloads]    |
+| [**🌊 Streamdown**][streamdown-github]  | [@lobehub/streamdown][streamdown-link] | [![][streamdown-shield]][streamdown-link] | ![][streamdown-date]  | ![][streamdown-downloads]  |
 
 ### 🤝 Contributing
 
@@ -124,8 +127,18 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 
 [discord-link]: https://discord.gg/AYFPHvv2jT
 [discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
+[docs-kit-date]: https://img.shields.io/github/release-date/lobehub/docs-kit?labelColor=black&style=flat-square
+[docs-kit-downloads]: https://img.shields.io/npm/dt/@lobehub/docs-kit?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[docs-kit-github]: https://github.com/lobehub/docs-kit
+[docs-kit-link]: https://www.npmjs.com/package/@lobehub/docs-kit
+[docs-kit-shield]: https://img.shields.io/npm/v/@lobehub/docs-kit?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [github-link]: https://github.com/lobehub
 [github-star]: https://img.shields.io/github/stars/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
+[fluent-emoji-date]: https://img.shields.io/github/release-date/lobehub/fluent-emoji?labelColor=black&style=flat-square
+[fluent-emoji-downloads]: https://img.shields.io/npm/dt/@lobehub/fluent-emoji?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[fluent-emoji-github]: https://github.com/lobehub/fluent-emoji
+[fluent-emoji-link]: https://www.npmjs.com/package/@lobehub/fluent-emoji
+[fluent-emoji-shield]: https://img.shields.io/npm/v/@lobehub/fluent-emoji?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobehub-cover]: https://github.com/user-attachments/assets/56f2f1e1-f9f3-484a-a890-0a61d61837f3
 [lobehub-github]: https://github.com/lobehub/lobehub
 [lobehub-shield]: https://img.shields.io/github/stars/lobehub/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
@@ -170,6 +183,11 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-editor-github]: https://github.com/lobehub/lobe-editor
 [lobe-editor-link]: https://www.npmjs.com/package/@lobehub/editor
 [lobe-editor-shield]: https://img.shields.io/npm/v/@lobehub/editor?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[streamdown-date]: https://img.shields.io/github/release-date/lobehub/streamdown?labelColor=black&style=flat-square
+[streamdown-downloads]: https://img.shields.io/npm/dt/@lobehub/streamdown?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
+[streamdown-github]: https://github.com/lobehub/streamdown
+[streamdown-link]: https://www.npmjs.com/package/@lobehub/streamdown
+[streamdown-shield]: https://img.shields.io/npm/v/@lobehub/streamdown?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [social-x-link]: https://x.com/lobehub
 [social-x-shield]: https://img.shields.io/badge/-%40lobehub-white?labelColor=black&logo=x&logoColor=white&style=flat-square
 [sponsor-link]: https://opencollective.com/lobehub "Become 🩷 LobeHub Sponsor"
