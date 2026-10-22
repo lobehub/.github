@@ -62,17 +62,16 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
 
 ### 📦 Ecosystem
 
-| Repos | Packages | Version / Downloads | Docs |
-| :---- | :------- | :------------------ | :--- |
-| [**🍭 LobeUI**][lobe-ui-github] | [@lobehub/ui][lobe-ui-link] | [![][lobe-ui-shield]][lobe-ui-link]<br/>![][lobe-ui-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35">][lobe-ui-docs] |
-| [**🥨 LobeIcons**][lobe-icons-github] | [@lobehub/icons][lobe-icons-link] | [![][lobe-icons-shield]][lobe-icons-link]<br/>![][lobe-icons-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/750129442/edc2a03a-a6c4-4f11-89c8-8ffafbb85a7a">][lobe-icons-docs] |
-| [**📊 LobeCharts**][lobe-charts-github] | [@lobehub/charts][lobe-charts-link] | [![][lobe-charts-shield]][lobe-charts-link]<br/>![][lobe-charts-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/752544109/9ab958ba-96f0-4862-a0de-dcc5f8348110">][lobe-charts-docs] |
-| [**✒️ LobeEditor**][lobe-editor-github] | [@lobehub/editor][lobe-editor-link] | [![][lobe-editor-shield]][lobe-editor-link]<br/>![][lobe-editor-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/1020194321/9946b145-8bca-421e-8495-57437907db62">][lobe-editor-docs] |
-| [**🎤 LobeTTS**][lobe-tts-github] | [@lobehub/tts][lobe-tts-link] | [![][lobe-tts-shield]][lobe-tts-link]<br/>![][lobe-tts-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/713462676/d13d3fda-9c5d-457c-a816-4c333cc96363">][lobe-tts-docs] |
-| [**📐 LobeLint**][lobe-lint-github] | [@lobehub/lint][lobe-lint-link] | [![][lobe-lint-shield]][lobe-lint-link]<br/>![][lobe-lint-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/650028465/d47e481a-3d6d-4e9a-92c4-9b586f0a13a2">][lobe-lint-docs] |
-| [**😀 FluentEmoji**][fluent-emoji-github] | [@lobehub/fluent-emoji][fluent-emoji-link] | [![][fluent-emoji-shield]][fluent-emoji-link]<br/>![][fluent-emoji-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/804759710/6a5e449c-48b0-4d56-8dcb-6c94b2a3abaf">][fluent-emoji-docs] |
-| [**📖 DocsKit**][docs-kit-github] | [@lobehub/docs-kit][docs-kit-link] | [![][docs-kit-shield]][docs-kit-link]<br/>![][docs-kit-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/1428543135/2026feb8-4091-4f65-8335-0076f3c1143c">][docs-kit-docs] |
-| [**🌊 Streamdown**][streamdown-github] | [@lobehub/streamdown][streamdown-link] | [![][streamdown-shield]][streamdown-link]<br/>![][streamdown-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/1362345259/9438e06e-10ab-4265-b8f5-b396f923b2bb">][streamdown-docs] |
+| [**🍭 LobeUI**][lobe-ui-github] `@lobehub/ui`<br/>React component library for AI apps<br/><br/>[![][lobe-ui-shield]][lobe-ui-link] [![][lobe-ui-downloads]][lobe-ui-link]                                                                               | [<img width="320" alt="LobeUI docs" src="https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35">][lobe-ui-docs]           |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**🥨 LobeIcons**][lobe-icons-github] `@lobehub/icons`<br/>AI / LLM brand logos and icons<br/><br/>[![][lobe-icons-shield]][lobe-icons-link] [![][lobe-icons-downloads]][lobe-icons-link]                                                               | [<img width="320" alt="LobeIcons docs" src="https://repository-images.githubusercontent.com/750129442/edc2a03a-a6c4-4f11-89c8-8ffafbb85a7a">][lobe-icons-docs]     |
+| [**📊 LobeCharts**][lobe-charts-github] `@lobehub/charts`<br/>React chart components<br/><br/>[![][lobe-charts-shield]][lobe-charts-link] [![][lobe-charts-downloads]][lobe-charts-link]                                                                | [<img width="320" alt="LobeCharts docs" src="https://repository-images.githubusercontent.com/752544109/9ab958ba-96f0-4862-a0de-dcc5f8348110">][lobe-charts-docs]   |
+| [**✒️ LobeEditor**][lobe-editor-github] `@lobehub/editor`<br/>Lexical-based rich text editor for React, with Markdown, plugins and a chat composer<br/><br/>[![][lobe-editor-shield]][lobe-editor-link] [![][lobe-editor-downloads]][lobe-editor-link] | [<img width="320" alt="LobeEditor docs" src="https://repository-images.githubusercontent.com/1020194321/9946b145-8bca-421e-8495-57437907db62">][lobe-editor-docs]  |
+| [**🎤 LobeTTS**][lobe-tts-github] `@lobehub/tts`<br/>TTS / STT speech library<br/><br/>[![][lobe-tts-shield]][lobe-tts-link] [![][lobe-tts-downloads]][lobe-tts-link]                                                                                   | [<img width="320" alt="LobeTTS docs" src="https://repository-images.githubusercontent.com/713462676/d13d3fda-9c5d-457c-a816-4c333cc96363">][lobe-tts-docs]         |
+| [**📐 LobeLint**][lobe-lint-github] `@lobehub/lint`<br/>ESLint, Prettier, Stylelint, Commitlint and more lint configs<br/><br/>[![][lobe-lint-shield]][lobe-lint-link] [![][lobe-lint-downloads]][lobe-lint-link]                                       | [<img width="320" alt="LobeLint docs" src="https://repository-images.githubusercontent.com/650028465/d47e481a-3d6d-4e9a-92c4-9b586f0a13a2">][lobe-lint-docs]       |
+| [**😀 FluentEmoji**][fluent-emoji-github] `@lobehub/fluent-emoji`<br/>Fluent Emoji assets<br/><br/>[![][fluent-emoji-shield]][fluent-emoji-link] [![][fluent-emoji-downloads]][fluent-emoji-link]                                                       | [<img width="320" alt="FluentEmoji docs" src="https://repository-images.githubusercontent.com/804759710/6a5e449c-48b0-4d56-8dcb-6c94b2a3abaf">][fluent-emoji-docs] |
+| [**📖 DocsKit**][docs-kit-github] `@lobehub/docs-kit`<br/>Reusable documentation toolkit and lobedocs CLI for LobeHub component libraries<br/><br/>[![][docs-kit-shield]][docs-kit-link] [![][docs-kit-downloads]][docs-kit-link]                       | [<img width="320" alt="DocsKit docs" src="https://repository-images.githubusercontent.com/1428543135/2026feb8-4091-4f65-8335-0076f3c1143c">][docs-kit-docs]        |
+| [**🌊 Streamdown**][streamdown-github] `@lobehub/streamdown`<br/>Headless streaming markdown engine for React<br/><br/>[![][streamdown-shield]][streamdown-link] [![][streamdown-downloads]][streamdown-link]                                           | [<img width="320" alt="Streamdown docs" src="https://repository-images.githubusercontent.com/1362345259/9438e06e-10ab-4265-b8f5-b396f923b2bb">][streamdown-docs]   |
 
 ### 🤝 Contributing
 
@@ -138,7 +137,6 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [docs-kit-github]: https://github.com/lobehub/docs-kit
 [docs-kit-link]: https://www.npmjs.com/package/@lobehub/docs-kit
 [docs-kit-shield]: https://img.shields.io/npm/v/@lobehub/docs-kit?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[docs-kit-og]: https://repository-images.githubusercontent.com/1428543135/2026feb8-4091-4f65-8335-0076f3c1143c
 [docs-kit-docs]: https://docs-kit.lobehub.com/
 [github-link]: https://github.com/lobehub
 [github-star]: https://img.shields.io/github/stars/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
@@ -146,7 +144,6 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [fluent-emoji-github]: https://github.com/lobehub/fluent-emoji
 [fluent-emoji-link]: https://www.npmjs.com/package/@lobehub/fluent-emoji
 [fluent-emoji-shield]: https://img.shields.io/npm/v/@lobehub/fluent-emoji?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[fluent-emoji-og]: https://repository-images.githubusercontent.com/804759710/6a5e449c-48b0-4d56-8dcb-6c94b2a3abaf
 [fluent-emoji-docs]: https://fluent-emoji.lobehub.com
 [lobehub-cover]: https://github.com/user-attachments/assets/56f2f1e1-f9f3-484a-a890-0a61d61837f3
 [lobehub-github]: https://github.com/lobehub/lobehub
@@ -163,19 +160,16 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-icons-github]: https://github.com/lobehub/lobe-icons
 [lobe-icons-link]: https://www.npmjs.com/package/@lobehub/icons
 [lobe-icons-shield]: https://img.shields.io/npm/v/@lobehub/icons?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-icons-og]: https://repository-images.githubusercontent.com/750129442/edc2a03a-a6c4-4f11-89c8-8ffafbb85a7a
 [lobe-icons-docs]: https://icons.lobehub.com
 [lobe-charts-downloads]: https://img.shields.io/npm/dt/@lobehub/charts?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-charts-github]: https://github.com/lobehub/lobe-charts
 [lobe-charts-link]: https://www.npmjs.com/package/@lobehub/charts
 [lobe-charts-shield]: https://img.shields.io/npm/v/@lobehub/charts?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-charts-og]: https://repository-images.githubusercontent.com/752544109/9ab958ba-96f0-4862-a0de-dcc5f8348110
 [lobe-charts-docs]: https://charts.lobehub.com
 [lobe-lint-downloads]: https://img.shields.io/npm/dt/@lobehub/lint?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-lint-github]: https://github.com/lobehub/lobe-lint
 [lobe-lint-link]: https://www.npmjs.com/package/@lobehub/lint
 [lobe-lint-shield]: https://img.shields.io/npm/v/@lobehub/lint?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-lint-og]: https://repository-images.githubusercontent.com/650028465/d47e481a-3d6d-4e9a-92c4-9b586f0a13a2
 [lobe-lint-docs]: https://lint.lobehub.com
 [lobe-theme-cover]: https://raw.githubusercontent.com/lobehub/lobe-assets/master/assets/lobe-theme-cover.webp
 [lobe-theme-github]: https://github.com/lobehub/sd-webui-lobe-theme
@@ -184,25 +178,21 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [lobe-tts-github]: https://github.com/lobehub/lobe-tts
 [lobe-tts-link]: https://www.npmjs.com/package/@lobehub/tts
 [lobe-tts-shield]: https://img.shields.io/npm/v/@lobehub/tts?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-tts-og]: https://repository-images.githubusercontent.com/713462676/d13d3fda-9c5d-457c-a816-4c333cc96363
 [lobe-tts-docs]: https://tts.lobehub.com
 [lobe-ui-downloads]: https://img.shields.io/npm/dt/@lobehub/ui?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-ui-github]: https://github.com/lobehub/lobe-ui
 [lobe-ui-link]: https://www.npmjs.com/package/@lobehub/ui
 [lobe-ui-shield]: https://img.shields.io/npm/v/@lobehub/ui?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-ui-og]: https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35
 [lobe-ui-docs]: https://ui.lobehub.com
 [lobe-editor-downloads]: https://img.shields.io/npm/dt/@lobehub/editor?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-editor-github]: https://github.com/lobehub/lobe-editor
 [lobe-editor-link]: https://www.npmjs.com/package/@lobehub/editor
 [lobe-editor-shield]: https://img.shields.io/npm/v/@lobehub/editor?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[lobe-editor-og]: https://repository-images.githubusercontent.com/1020194321/9946b145-8bca-421e-8495-57437907db62
 [lobe-editor-docs]: https://editor.lobehub.com
 [streamdown-downloads]: https://img.shields.io/npm/dt/@lobehub/streamdown?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [streamdown-github]: https://github.com/lobehub/streamdown
 [streamdown-link]: https://www.npmjs.com/package/@lobehub/streamdown
 [streamdown-shield]: https://img.shields.io/npm/v/@lobehub/streamdown?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[streamdown-og]: https://repository-images.githubusercontent.com/1362345259/9438e06e-10ab-4265-b8f5-b396f923b2bb
 [streamdown-docs]: https://streamdown.lobehub.com
 [social-x-link]: https://x.com/lobehub
 [social-x-shield]: https://img.shields.io/badge/-%40lobehub-white?labelColor=black&logo=x&logoColor=white&style=flat-square
