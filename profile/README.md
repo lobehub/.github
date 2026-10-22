@@ -51,42 +51,28 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
 
 <details>
-<summary><strong>🅰️ LobeTheme</strong></summary>
+<summary><strong>🧩 More Projects</strong></summary>
 
 | [**🅰️ LobeTheme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github] | [![][lobe-theme-cover]][lobe-theme-github] |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-
-</details>
-
-<details>
-<summary><strong>🧸 LobeVidol</strong> <code>WIP</code></summary>
-
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------- |
 | [**🧸 LobeVidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github] | [![][lobe-vidol-cover]][lobe-vidol-github] |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-
-</details>
-
-<details>
-<summary><strong>🌏 LobeI18n</strong></summary>
-
 | [**🌏 LobeI18n**][lobe-i18n-github]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github] |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------- |
 
 </details>
 
 ### 📦 Ecosystem
 
-| Repos | Packages | Version | Downloads | Docs |
-| :---- | :------- | :------ | :-------- | :--- |
-| [**🍭 LobeUI**][lobe-ui-github] | [@lobehub/ui][lobe-ui-link] | [![][lobe-ui-shield]][lobe-ui-link] | ![][lobe-ui-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35">][lobe-ui-docs] |
-| [**🥨 LobeIcons**][lobe-icons-github] | [@lobehub/icons][lobe-icons-link] | [![][lobe-icons-shield]][lobe-icons-link] | ![][lobe-icons-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/750129442/edc2a03a-a6c4-4f11-89c8-8ffafbb85a7a">][lobe-icons-docs] |
-| [**📊 LobeCharts**][lobe-charts-github] | [@lobehub/charts][lobe-charts-link] | [![][lobe-charts-shield]][lobe-charts-link] | ![][lobe-charts-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/752544109/9ab958ba-96f0-4862-a0de-dcc5f8348110">][lobe-charts-docs] |
-| [**✒️ LobeEditor**][lobe-editor-github] | [@lobehub/editor][lobe-editor-link] | [![][lobe-editor-shield]][lobe-editor-link] | ![][lobe-editor-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/1020194321/9946b145-8bca-421e-8495-57437907db62">][lobe-editor-docs] |
-| [**🎤 LobeTTS**][lobe-tts-github] | [@lobehub/tts][lobe-tts-link] | [![][lobe-tts-shield]][lobe-tts-link] | ![][lobe-tts-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/713462676/d13d3fda-9c5d-457c-a816-4c333cc96363">][lobe-tts-docs] |
-| [**📐 LobeLint**][lobe-lint-github] | [@lobehub/lint][lobe-lint-link] | [![][lobe-lint-shield]][lobe-lint-link] | ![][lobe-lint-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/650028465/d47e481a-3d6d-4e9a-92c4-9b586f0a13a2">][lobe-lint-docs] |
-| [**😀 FluentEmoji**][fluent-emoji-github] | [@lobehub/fluent-emoji][fluent-emoji-link] | [![][fluent-emoji-shield]][fluent-emoji-link] | ![][fluent-emoji-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/804759710/6a5e449c-48b0-4d56-8dcb-6c94b2a3abaf">][fluent-emoji-docs] |
-| [**📖 DocsKit**][docs-kit-github] | [@lobehub/docs-kit][docs-kit-link] | [![][docs-kit-shield]][docs-kit-link] | ![][docs-kit-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/1428543135/2026feb8-4091-4f65-8335-0076f3c1143c">][docs-kit-docs] |
-| [**🌊 Streamdown**][streamdown-github] | [@lobehub/streamdown][streamdown-link] | [![][streamdown-shield]][streamdown-link] | ![][streamdown-downloads] | [<img width="160" alt="docs" src="https://repository-images.githubusercontent.com/1362345259/9438e06e-10ab-4265-b8f5-b396f923b2bb">][streamdown-docs] |
+| Repos | Packages | Version / Downloads | Docs |
+| :---- | :------- | :------------------ | :--- |
+| [**🍭 LobeUI**][lobe-ui-github] | [@lobehub/ui][lobe-ui-link] | [![][lobe-ui-shield]][lobe-ui-link]<br/>![][lobe-ui-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/643435168/7514a374-d7de-4c8b-ad61-5460bc0bfe35">][lobe-ui-docs] |
+| [**🥨 LobeIcons**][lobe-icons-github] | [@lobehub/icons][lobe-icons-link] | [![][lobe-icons-shield]][lobe-icons-link]<br/>![][lobe-icons-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/750129442/edc2a03a-a6c4-4f11-89c8-8ffafbb85a7a">][lobe-icons-docs] |
+| [**📊 LobeCharts**][lobe-charts-github] | [@lobehub/charts][lobe-charts-link] | [![][lobe-charts-shield]][lobe-charts-link]<br/>![][lobe-charts-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/752544109/9ab958ba-96f0-4862-a0de-dcc5f8348110">][lobe-charts-docs] |
+| [**✒️ LobeEditor**][lobe-editor-github] | [@lobehub/editor][lobe-editor-link] | [![][lobe-editor-shield]][lobe-editor-link]<br/>![][lobe-editor-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/1020194321/9946b145-8bca-421e-8495-57437907db62">][lobe-editor-docs] |
+| [**🎤 LobeTTS**][lobe-tts-github] | [@lobehub/tts][lobe-tts-link] | [![][lobe-tts-shield]][lobe-tts-link]<br/>![][lobe-tts-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/713462676/d13d3fda-9c5d-457c-a816-4c333cc96363">][lobe-tts-docs] |
+| [**📐 LobeLint**][lobe-lint-github] | [@lobehub/lint][lobe-lint-link] | [![][lobe-lint-shield]][lobe-lint-link]<br/>![][lobe-lint-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/650028465/d47e481a-3d6d-4e9a-92c4-9b586f0a13a2">][lobe-lint-docs] |
+| [**😀 FluentEmoji**][fluent-emoji-github] | [@lobehub/fluent-emoji][fluent-emoji-link] | [![][fluent-emoji-shield]][fluent-emoji-link]<br/>![][fluent-emoji-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/804759710/6a5e449c-48b0-4d56-8dcb-6c94b2a3abaf">][fluent-emoji-docs] |
+| [**📖 DocsKit**][docs-kit-github] | [@lobehub/docs-kit][docs-kit-link] | [![][docs-kit-shield]][docs-kit-link]<br/>![][docs-kit-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/1428543135/2026feb8-4091-4f65-8335-0076f3c1143c">][docs-kit-docs] |
+| [**🌊 Streamdown**][streamdown-github] | [@lobehub/streamdown][streamdown-link] | [![][streamdown-shield]][streamdown-link]<br/>![][streamdown-downloads] | [<img width="300" alt="docs" src="https://repository-images.githubusercontent.com/1362345259/9438e06e-10ab-4265-b8f5-b396f923b2bb">][streamdown-docs] |
 
 ### 🤝 Contributing
 
