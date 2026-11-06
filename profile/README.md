@@ -8,7 +8,7 @@
 </picture>
 
 
-Your Chief Agent Operator
+Super-Agents on Your Team
 
 [![][vercel-shield]][vercel-link]
 [![][discord-shield]][discord-link]
@@ -23,18 +23,14 @@ Your Chief Agent Operator
 
 </div>
 
-### 👋🏻 Welcome to LobeHub
+### 🤯 Welcome to **LobeHub**
 
-LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
-
-
+Add super-agents to the chats your team already uses. They take on work by themselves and get better every week.
 
 
 [![][lobehub-cover]][lobehub-github]
 
-### 🤯 **LobeHub** - Super-Agents on Your Team [![][lobehub-shield]][lobehub-github]
 
-Add super-agents to the chats your team already uses. They take on work by themselves and get better every week.
 
 <a href="https://www.producthunt.com/products/lobehub?launch=lobehub-2&embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">
   <table>
