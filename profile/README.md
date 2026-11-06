@@ -28,6 +28,14 @@ Your Chief Agent Operator
 LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
 
 
+
+
+[![][lobehub-cover]][lobehub-github]
+
+### 🤯 **LobeHub** - Super-Agents on Your Team [![][lobehub-shield]][lobehub-github]
+
+Add super-agents to the chats your team already uses. They take on work by themselves and get better every week.
+
 <a href="https://www.producthunt.com/products/lobehub?launch=lobehub-2&embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">
   <table>
     <tr>
@@ -40,25 +48,13 @@ LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports
 🚀 We are live on Product Hunt! We are thrilled to bring LobeHub to the world. If you believe in a future where humans and agents co-evolve, please <a href="https://www.producthunt.com/products/lobehub?launch=lobehub-2&embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-lobehub" target="_blank">support our journey</a>.
       </td>
     </tr>
+  </table>
 </a>
 
 
+<br/>
 
 
-### ⭐️ Our Projects
-
-| [**🤯 LobeHub**][lobehub-github]<br/>LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.<br/><br/>[![][lobehub-shield]][lobehub-github] | [![][lobehub-cover]][lobehub-github]   |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-
-<details>
-<summary><strong>🧩 More Projects</strong></summary>
-
-| [**🅰️ LobeTheme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>[![][lobe-theme-shield]][lobe-theme-github] | [![][lobe-theme-cover]][lobe-theme-github] |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------- |
-| [**🧸 LobeVidol**][lobe-vidol-github] `WIP`<br/>Experience the magic of virtual idol creation with Lobe Vidol, enjoy the elegance of our Exquisite UI Design, dance along using MMD Dance Support, and engage in Smooth Conversations.<br/><br/>[![][lobe-vidol-shield]][lobe-vidol-github] | [![][lobe-vidol-cover]][lobe-vidol-github] |
-| [**🌏 LobeI18n**][lobe-i18n-github]<br/>Automation tool for the ai i18n translation proces. It supports features such as automatic splitting of large files, incremental updates, and customization options for markdown translation.<br/><br/>[![][lobe-i18n-shield]][lobe-i18n-npm] | [![][lobe-i18n-cover]][lobe-i18n-github] |
-
-</details>
 
 ### 📦 Ecosystem
 
@@ -152,7 +148,7 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 [fluent-emoji-link]: https://www.npmjs.com/package/@lobehub/fluent-emoji
 [fluent-emoji-shield]: https://img.shields.io/npm/v/@lobehub/fluent-emoji?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [fluent-emoji-docs]: https://fluent-emoji.lobehub.com
-[lobehub-cover]: https://github.com/user-attachments/assets/56f2f1e1-f9f3-484a-a890-0a61d61837f3
+[lobehub-cover]: https://hub-apac-1.lobeobjects.space/blog/assets/8beb20539c0fdd1b8fbbc6a07f293a78.webp
 [lobehub-github]: https://github.com/lobehub/lobehub
 [lobehub-shield]: https://img.shields.io/github/stars/lobehub/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
 [lobe-vidol-cover]: https://github.com/lobehub/.github/assets/17870709/5bd39ca7-df0d-41a4-bfeb-c97147ee1ca3
