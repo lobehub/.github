@@ -126,7 +126,7 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 >
 > Help us make LobeHub better. Welcome to provide product design feedback, user experience discussions directly to us.
 >
-> **Principal Maintainers:** [@arvinxx](https://github.com/arvinxx) [@canisminor1990](https://github.com/canisminor1990)
+> **Principal Maintainers:** [@arvinxx](https://github.com/arvinxx)
 
 <!-- LINK GROUP -->
 
